@@ -1,0 +1,9 @@
+{
+  "title": "AfterShip",
+  "shortDescription": "E-commerce shipment tracking software supporting 700+ carriers. Branded tracking pages, delivery notifications, and AI-powered estimated delivery dates to reduce WISMO tickets.",
+  "cover": "https://placehold.co/600x400?text=AfterShip",
+  "slug": "aftership",
+  "category": "Logistics & Payments",
+  "link": "https://www.aftership.com",
+  "features": ["700+ Carriers", "Branded Tracking", "Delivery Notifications", "AI EDD Widget", "Analytics Dashboard"]
+}

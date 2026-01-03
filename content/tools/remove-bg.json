@@ -1,0 +1,9 @@
+{
+  "title": "Remove.bg",
+  "shortDescription": "AI-powered background removal tool. Instantly remove backgrounds from product photos with high precision, supporting images up to 50 megapixels for professional results.",
+  "cover": "https://placehold.co/600x400?text=Remove.bg",
+  "slug": "remove-bg",
+  "category": "Creative Tools",
+  "link": "https://www.remove.bg",
+  "features": ["AI Background Removal", "Batch Processing", "API Access", "High Resolution", "Desktop App"]
+}

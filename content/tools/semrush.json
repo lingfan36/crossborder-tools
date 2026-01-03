@@ -1,0 +1,9 @@
+{
+  "title": "Semrush",
+  "shortDescription": "All-in-one digital marketing toolkit with 55+ tools for SEO, PPC, content marketing, and competitor analysis. Research keywords, audit sites, and track rankings.",
+  "cover": "https://placehold.co/600x400?text=Semrush",
+  "slug": "semrush",
+  "category": "Marketing & SEO",
+  "link": "https://www.semrush.com",
+  "features": ["Keyword Research", "Site Audit", "Backlink Analysis", "Position Tracking", "Competitor Analysis"]
+}

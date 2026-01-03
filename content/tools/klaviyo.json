@@ -1,0 +1,9 @@
+{
+  "title": "Klaviyo",
+  "shortDescription": "AI-powered email and SMS marketing platform built for e-commerce. Advanced segmentation, predictive analytics, and 350+ templates to drive revenue and customer loyalty.",
+  "cover": "https://placehold.co/600x400?text=Klaviyo",
+  "slug": "klaviyo",
+  "category": "Marketing & SEO",
+  "link": "https://www.klaviyo.com",
+  "features": ["Email Automation", "SMS Marketing", "Predictive Analytics", "Advanced Segmentation", "Shopify Integration"]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Shopify",
+  "shortDescription": "The world's leading e-commerce platform powering 4.8M+ stores. All-in-one solution with website builder, payments, inventory, shipping, and multichannel selling capabilities.",
+  "cover": "https://placehold.co/600x400?text=Shopify",
+  "slug": "shopify",
+  "category": "E-commerce Platforms",
+  "link": "https://www.shopify.com",
+  "features": ["Store Builder", "Shopify Payments", "Inventory Management", "App Ecosystem", "POS System"]
+}

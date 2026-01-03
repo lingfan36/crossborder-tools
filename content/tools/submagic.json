@@ -1,0 +1,9 @@
+{
+  "title": "Submagic",
+  "shortDescription": "AI-powered caption generator for short-form videos. Auto-transcribe in 48+ languages, add trendy animated captions, emojis, and sound effects to boost engagement.",
+  "cover": "https://placehold.co/600x400?text=Submagic",
+  "slug": "submagic",
+  "category": "AI Video & Marketing",
+  "link": "https://www.submagic.co",
+  "features": ["AI Transcription", "Animated Captions", "48+ Languages", "Emoji Detection", "Trendy Templates"]
+}

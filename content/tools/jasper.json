@@ -1,0 +1,9 @@
+{
+  "title": "Jasper AI",
+  "shortDescription": "AI copywriting assistant for marketing teams. Generate high-converting ad copy, product descriptions, emails, and blog posts with 50+ templates and brand voice consistency.",
+  "cover": "https://placehold.co/600x400?text=Jasper",
+  "slug": "jasper",
+  "category": "Marketing & SEO",
+  "link": "https://www.jasper.ai",
+  "features": ["50+ Templates", "Brand Voice", "Team Collaboration", "SEO Integration", "Multi-language"]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Jungle Scout",
+  "shortDescription": "The leading Amazon product research tool. Analyze product data, research keywords, track competitors, and discover profitable opportunities with accurate sales estimates.",
+  "cover": "https://placehold.co/600x400?text=Jungle+Scout",
+  "slug": "jungle-scout",
+  "category": "Product Research",
+  "link": "https://www.junglescout.com",
+  "features": ["Product Database", "Keyword Scout", "Competitor Tracking", "Sales Estimates", "Supplier Database"]
+}
