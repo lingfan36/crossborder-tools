@@ -1,17 +1,17 @@
 import ProductCard from './product-card'
 
-interface Product {
+interface Tool {
   title: string
   shortDescription: string
   cover: string
   slug: string
   category: string
-  publishDate: string
-  duration: string
+  link: string
+  features?: string[]
 }
 
 interface ProductListProps {
-  products: Product[]
+  products: Tool[]
 }
 
 const ProductList: React.FC<ProductListProps> = ({ products }) => {
