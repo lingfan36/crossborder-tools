@@ -59,13 +59,15 @@ const Navbar = () => {
         </div>
         {/* CTA button */}
         <div>
-          <button
-            type="button"
+          <a
+            href="https://t.me/blue2l"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-lg border bg-amber-500 px-3.5 py-1.5 text-base font-semibold text-white transition duration-300 ease-in-out hover:bg-amber-600 active:scale-95 sm:px-5 sm:py-2"
           >
             <CircleFadingPlus size={18} />
-            <span>Submit</span>
-          </button>
+            <span>Submit Tool</span>
+          </a>
         </div>
       </div>
     </nav>
