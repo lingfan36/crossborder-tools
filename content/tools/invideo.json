@@ -1,7 +1,7 @@
 {
   "title": "InVideo",
   "shortDescription": "AI video maker that turns text prompts into complete videos with scripts, visuals, voiceovers, and edits. Access 16M+ stock media and create professional content in minutes.",
-  "cover": "https://placehold.co/600x400?text=InVideo",
+  "cover": "/images/tools/invideo.png",
   "slug": "invideo",
   "category": "AI Video & Marketing",
   "link": "https://invideo.io",

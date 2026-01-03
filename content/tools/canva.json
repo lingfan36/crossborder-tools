@@ -1,7 +1,7 @@
 {
   "title": "Canva",
   "shortDescription": "All-in-one design platform with thousands of templates for product images, social media, and marketing materials. No design skills needed with drag-and-drop editor.",
-  "cover": "https://placehold.co/600x400?text=Canva",
+  "cover": "/images/tools/canva.png",
   "slug": "canva",
   "category": "Creative Tools",
   "link": "https://www.canva.com",

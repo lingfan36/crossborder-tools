@@ -1,7 +1,7 @@
 {
   "title": "17Track",
   "shortDescription": "Global package tracking platform supporting 900+ carriers worldwide. Track international shipments in one place with batch tracking, alerts, and API access.",
-  "cover": "https://placehold.co/600x400?text=17Track",
+  "cover": "/images/tools/17track.png",
   "slug": "17track",
   "category": "Logistics & Payments",
   "link": "https://www.17track.net",

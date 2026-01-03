@@ -1,7 +1,7 @@
 {
   "title": "OpusClip",
   "shortDescription": "AI-powered video repurposing tool that transforms long videos into viral short clips for TikTok, Reels, and Shorts. Features auto-clipping, animated captions, and virality scoring.",
-  "cover": "https://placehold.co/600x400?text=OpusClip",
+  "cover": "/images/tools/opus.png",
   "slug": "opusclip",
   "category": "AI Video & Marketing",
   "link": "https://www.opus.pro",

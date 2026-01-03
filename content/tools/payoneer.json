@@ -1,7 +1,7 @@
 {
   "title": "Payoneer",
   "shortDescription": "Leading cross-border payment platform for e-commerce sellers. Receive payments from Amazon, eBay, Walmart with multi-currency accounts and competitive withdrawal rates.",
-  "cover": "https://placehold.co/600x400?text=Payoneer",
+  "cover": "/images/tools/payoneer.png",
   "slug": "payoneer",
   "category": "Logistics & Payments",
   "link": "https://www.payoneer.com",

@@ -1,7 +1,7 @@
 {
   "title": "CapCut",
   "shortDescription": "Free all-in-one video editor by ByteDance with powerful AI tools. Features keyframe animation, slow-motion, chroma key, auto-captions, and cloud collaboration for creators.",
-  "cover": "https://placehold.co/600x400?text=CapCut",
+  "cover": "/images/tools/capcut.png",
   "slug": "capcut",
   "category": "AI Video & Marketing",
   "link": "https://www.capcut.com",

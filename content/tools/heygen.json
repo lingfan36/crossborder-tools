@@ -1,7 +1,7 @@
 {
   "title": "HeyGen",
   "shortDescription": "AI video platform that creates professional talking-head videos using photorealistic avatars. Generate marketing videos, training content, and localized clips without cameras or studios.",
-  "cover": "https://placehold.co/600x400?text=HeyGen",
+  "cover": "/images/tools/heygen.png",
   "slug": "heygen",
   "category": "AI Video & Marketing",
   "link": "https://www.heygen.com",

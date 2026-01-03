@@ -1,7 +1,7 @@
 {
   "title": "WooCommerce",
   "shortDescription": "Open-source e-commerce plugin for WordPress. Build fully customizable online stores with unlimited products, 1000+ extensions, and complete ownership of your data.",
-  "cover": "https://placehold.co/600x400?text=WooCommerce",
+  "cover": "/images/tools/woocommerce.png",
   "slug": "woocommerce",
   "category": "E-commerce Platforms",
   "link": "https://woocommerce.com",

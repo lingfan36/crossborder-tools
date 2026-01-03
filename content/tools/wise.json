@@ -1,7 +1,7 @@
 {
   "title": "Wise",
   "shortDescription": "International money transfer service using real mid-market exchange rates. Send money to 70+ countries, hold 40+ currencies, and spend globally with the Wise card.",
-  "cover": "https://placehold.co/600x400?text=Wise",
+  "cover": "/images/tools/wise.png",
   "slug": "wise",
   "category": "Logistics & Payments",
   "link": "https://wise.com",

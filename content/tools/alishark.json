@@ -1,9 +1,9 @@
 {
   "title": "AliShark",
   "shortDescription": "Real-time AliExpress product research tool with 4.7+ million products. Track orders, analyze trends, and find profitable dropshipping items with live sales data.",
-  "cover": "https://placehold.co/600x400?text=AliShark",
+  "cover": "/images/tools/alishark.png",
   "slug": "alishark",
   "category": "Product Research",
-  "link": "https://alishark.com",
+  "link": "https://go.alishark.com/",
   "features": ["Live Order Tracking", "Sales Trend Analysis", "Advanced Filters", "Top Dropshippers", "Price Monitoring"]
 }
