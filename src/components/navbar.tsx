@@ -4,10 +4,10 @@ import Link from 'next/link'
 import { useState } from 'react'
 
 const navLinks = [
-  { title: 'All Tools', link: '#' },
-  { title: 'Product Research', link: '#' },
-  { title: 'Logistics', link: '#' },
-  { title: 'About', link: '#' },
+  { title: 'All Tools', link: '/' },
+  { title: 'Product Research', link: '/category/product-research' },
+  { title: 'Logistics', link: '/category/logistics-payments' },
+  { title: 'About', link: '/about' },
 ]
 
 const Navbar = () => {
