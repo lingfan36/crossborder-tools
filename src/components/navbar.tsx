@@ -35,7 +35,7 @@ const Navbar = () => {
           </button>
           {/* logo */}
           <Link href="/" className="flex items-center gap-3">
-            <span className="text-2xl">🚀</span>
+            <img src="/cross-border.png" alt="CrossBorder Tools" className="h-8" />
             <span className="self-center whitespace-nowrap text-xl font-semibold text-stone-900 md:text-2xl">
               CrossBorder Tools
             </span>
