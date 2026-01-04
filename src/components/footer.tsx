@@ -34,12 +34,12 @@ const Footer = () => {
         <div className="grid gap-6 py-16 sm:grid-cols-2 md:grid-cols-3">
           <div>
             <Link href="/" className="mb-8 flex items-center gap-3 text-white">
-              <span className="text-3xl">🚀</span>
+              <img src="/cross-border.png" alt="CrossBorder Tools" className="h-8" />
               <h6 className="text-2xl font-semibold tracking-wider">CrossBorder Tools</h6>
             </Link>
             <p className="mt-3 max-w-sm text-base font-normal text-[#767E94]">
               Your go-to directory for discovering the best cross-border e-commerce tools. 
-              Helping global sellers succeed since 2024.
+              Helping global sellers succeed since 2025.
             </p>
             <p className="mt-4 text-[#767E94]">
               Contact: <a href="https://t.me/blue2l" className="text-[#00AAFF] hover:underline">Telegram</a>
@@ -82,7 +82,7 @@ const Footer = () => {
         </button>
         <div className="mx-auto flex max-w-7xl flex-col items-center gap-3 px-4 py-[26px] md:flex-row md:justify-between">
           <p className="text-center text-[#767E94]">
-            CrossBorder Tools © 2024. All rights reserved.
+            CrossBorder Tools © 2025. All rights reserved.
           </p>
         </div>
       </div>
