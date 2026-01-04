@@ -43,6 +43,8 @@ const Footer = () => {
             </p>
             <p className="mt-4 text-[#767E94]">
               Contact: <a href="https://t.me/blue2l" className="text-[#00AAFF] hover:underline">Telegram</a>
+              {' | '}
+              <a href="mailto:xxx@lingfan.site" className="text-[#00AAFF] hover:underline">xxx@lingfan.site</a>
             </p>
           </div>
           <div>
