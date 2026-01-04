@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server'
-import { getAllCourses } from '@/services/courses'
+import { getAllTools } from '@/services/tools'
 
 export async function GET() {
-  const tools = await getAllCourses()
+  const tools = await getAllTools()
   return NextResponse.json(tools)
 }
