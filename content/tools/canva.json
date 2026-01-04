@@ -1,9 +1,24 @@
 {
   "title": "Canva",
-  "shortDescription": "All-in-one design platform with thousands of templates for product images, social media, and marketing materials. No design skills needed with drag-and-drop editor.",
+  "shortDescription": "All-in-one design platform for creating marketing graphics, social media content, presentations, and more. No design skills required.",
   "cover": "/images/tools/canva.png",
   "slug": "canva",
   "category": "Creative Tools",
   "link": "https://www.canva.com",
-  "features": ["Drag-and-Drop Editor", "Templates Library", "Brand Kit", "Team Collaboration", "Magic Resize"]
+  "features": ["250,000+ Templates", "AI Design Tools", "Brand Kit", "Team Collaboration", "Print Services"],
+  "longDescription": "Canva has democratized design, enabling anyone to create professional-quality graphics without design training or expensive software. For cross-border e-commerce sellers, visual content is essential across every channel—product images, social media posts, ads, email headers, and more. Canva provides over 250,000 templates optimized for every platform and purpose, from Instagram stories to Amazon A+ content. The drag-and-drop editor makes customization intuitive, while the massive library of stock photos, graphics, and fonts ensures you always have the assets you need. AI-powered features like Magic Write generate copy, Magic Resize adapts designs for different platforms instantly, and background removal cleans up product photos. The Brand Kit feature stores your colors, fonts, and logos for consistent branding across all content. For teams, real-time collaboration enables multiple people to work on designs simultaneously. Canva Pro unlocks premium templates, unlimited storage, and advanced features, though the free version is remarkably capable. For e-commerce sellers producing daily content across multiple platforms, Canva's speed and ease of use make professional design accessible and efficient.",
+  "faqs": [
+    {
+      "question": "Is Canva free?",
+      "answer": "Yes, Canva offers a generous free plan with access to 250,000+ templates, millions of photos and graphics, and core design features. Canva Pro at $15/month adds premium templates, Brand Kit, background remover, and more. Teams plans are available for collaboration."
+    },
+    {
+      "question": "Is Canva good for e-commerce product images?",
+      "answer": "Yes, Canva is excellent for creating lifestyle images, social media graphics, and marketing materials. For main product photos, dedicated photo editing software may be better, but Canva's background remover and templates are great for secondary images and promotional content."
+    },
+    {
+      "question": "Canva vs Adobe: which is better?",
+      "answer": "Adobe offers more powerful, professional tools but requires significant learning time and costs more. Canva is faster to learn, more affordable, and sufficient for most e-commerce marketing needs. Use Canva for quick, everyday design work; consider Adobe for complex projects requiring advanced capabilities."
+    }
+  ]
 }

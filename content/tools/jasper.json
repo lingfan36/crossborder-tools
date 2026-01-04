@@ -1,9 +1,24 @@
 {
-  "title": "Jasper AI",
-  "shortDescription": "AI copywriting assistant for marketing teams. Generate high-converting ad copy, product descriptions, emails, and blog posts with 50+ templates and brand voice consistency.",
+  "title": "Jasper",
+  "shortDescription": "AI-powered copywriting assistant for marketing content. Generate product descriptions, ad copy, emails, and blog posts that convert.",
   "cover": "/images/tools/jasper.png",
   "slug": "jasper",
   "category": "Marketing & SEO",
   "link": "https://www.jasper.ai",
-  "features": ["50+ Templates", "Brand Voice", "Team Collaboration", "SEO Integration", "Multi-language"]
+  "features": ["AI Copywriting", "Brand Voice", "Template Library", "Multi-Language", "Team Collaboration"],
+  "longDescription": "Jasper has emerged as the leading AI copywriting tool for e-commerce marketers who need to produce high-converting content at scale. For cross-border sellers managing hundreds or thousands of products, writing unique, compelling descriptions for each is nearly impossible manually—Jasper makes it effortless. The AI understands marketing principles and generates copy that sells, not just describes. Product descriptions, Facebook ad copy, email subject lines, blog posts, and social media content can all be created in minutes rather than hours. The Brand Voice feature learns your unique tone and style, ensuring all generated content sounds authentically like your brand. For international sellers, Jasper supports 30+ languages, enabling you to create localized content for different markets without hiring native speakers. The template library provides frameworks for every type of marketing content, from AIDA-structured ads to SEO-optimized blog outlines. While AI-generated content should always be reviewed and refined, Jasper dramatically accelerates the content creation process. For sellers competing on content marketing and SEO, Jasper provides the productivity boost needed to outproduce competitors.",
+  "faqs": [
+    {
+      "question": "How much does Jasper cost?",
+      "answer": "Jasper offers Creator at $49/month for individuals, Pro at $69/month for small teams, and Business with custom pricing for enterprises. All plans include unlimited AI-generated words. A 7-day free trial is available to test the platform."
+    },
+    {
+      "question": "Is Jasper good for e-commerce product descriptions?",
+      "answer": "Yes, Jasper excels at product descriptions. It can generate unique, SEO-friendly descriptions that highlight benefits and features. For stores with large catalogs, Jasper can produce hundreds of descriptions quickly, though human review is recommended for quality control."
+    },
+    {
+      "question": "How does Jasper compare to ChatGPT for marketing?",
+      "answer": "Jasper is specifically trained for marketing copy and includes templates, brand voice features, and integrations that ChatGPT lacks. While ChatGPT is more versatile and cheaper, Jasper produces more polished marketing content out of the box and is better for team workflows."
+    }
+  ]
 }

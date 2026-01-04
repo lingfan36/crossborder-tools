@@ -1,9 +1,24 @@
 {
   "title": "AfterShip",
-  "shortDescription": "E-commerce shipment tracking software supporting 700+ carriers. Branded tracking pages, delivery notifications, and AI-powered estimated delivery dates to reduce WISMO tickets.",
+  "shortDescription": "Post-purchase experience platform for e-commerce. Branded tracking pages, proactive notifications, and delivery analytics to reduce support tickets and increase loyalty.",
   "cover": "/images/tools/aftership.png",
   "slug": "aftership",
   "category": "Logistics & Payments",
   "link": "https://www.aftership.com",
-  "features": ["700+ Carriers", "Branded Tracking", "Delivery Notifications", "AI EDD Widget", "Analytics Dashboard"]
+  "features": ["Branded Tracking", "Proactive Notifications", "Delivery Analytics", "Returns Management", "900+ Carriers"],
+  "longDescription": "AfterShip transforms the post-purchase experience from a source of customer anxiety into a brand-building opportunity. For cross-border e-commerce sellers, the period between purchase and delivery is critical—customers are anxious, support tickets pile up, and negative reviews often stem from shipping uncertainty. AfterShip solves this with branded tracking pages that keep customers informed while reinforcing your brand. Instead of sending customers to carrier websites, they track orders on your beautifully designed page with your logo, colors, and even product recommendations. Proactive notifications via email and SMS alert customers before they need to ask, dramatically reducing 'where is my order' inquiries. The platform supports 900+ carriers worldwide, essential for cross-border shipping through multiple logistics providers. Delivery analytics reveal shipping performance patterns, helping you identify problematic carriers or routes. The returns management feature streamlines the returns process with branded portals and automated labels. For stores focused on customer lifetime value, AfterShip's ability to turn shipping anxiety into positive brand touchpoints directly impacts repeat purchase rates and customer satisfaction scores.",
+  "faqs": [
+    {
+      "question": "How much does AfterShip cost?",
+      "answer": "AfterShip offers a Free plan for up to 50 shipments/month. Paid plans start at $11/month for Essentials (1,200 shipments/year), Pro at $119/month, and Premium at $239/month. Enterprise pricing is available for high-volume shippers."
+    },
+    {
+      "question": "Is AfterShip better than 17Track?",
+      "answer": "They serve different purposes. 17Track is primarily a tracking tool, while AfterShip is a complete post-purchase experience platform. AfterShip offers branded tracking pages, proactive notifications, and returns management. For basic tracking, 17Track is cheaper; for customer experience, AfterShip is superior."
+    },
+    {
+      "question": "Does AfterShip integrate with Shopify?",
+      "answer": "Yes, AfterShip has a highly-rated Shopify app that automatically imports orders and tracking numbers. The integration enables branded tracking pages, automated notifications, and seamless returns management directly connected to your Shopify store."
+    }
+  ]
 }

@@ -1,9 +1,24 @@
 {
   "title": "AliShark",
-  "shortDescription": "Real-time AliExpress product research tool with 4.7+ million products. Track orders, analyze trends, and find profitable dropshipping items with live sales data.",
+  "shortDescription": "AliExpress product research tool. Analyze sales data, track trending products, and find winning items with real-time AliExpress analytics.",
   "cover": "/images/tools/alishark.png",
   "slug": "alishark",
   "category": "Product Research",
   "link": "https://go.alishark.com/",
-  "features": ["Live Order Tracking", "Sales Trend Analysis", "Advanced Filters", "Top Dropshippers", "Price Monitoring"]
+  "features": ["Sales Tracking", "Trend Analysis", "Product Database", "Order Monitoring", "Niche Research"],
+  "longDescription": "AliShark provides deep analytics into AliExpress, helping dropshippers identify winning products based on actual sales data rather than guesswork. For cross-border sellers sourcing from AliExpress, understanding which products are genuinely selling—and how fast—is crucial for making informed decisions. AliShark tracks order volumes, price changes, and sales velocity across millions of AliExpress products, revealing trends as they emerge. The platform excels at identifying products with growing momentum before they become saturated. You can filter by category, price range, shipping options, and sales metrics to find products matching your criteria. The order monitoring feature tracks specific products over time, showing sales patterns and seasonal trends. For niche research, AliShark reveals which categories and subcategories are performing best, helping you identify profitable market segments. While ad spy tools show what's being marketed, AliShark shows what's actually selling on the supply side—a complementary perspective for product research. The combination of supply-side data from AliShark and demand-side data from ad spy tools provides a complete picture for product selection.",
+  "faqs": [
+    {
+      "question": "How much does AliShark cost?",
+      "answer": "AliShark offers subscription plans starting at $20/month for basic access. Higher tiers provide more searches, tracking slots, and advanced features. A free trial is typically available to test the platform before committing."
+    },
+    {
+      "question": "Is AliShark accurate?",
+      "answer": "AliShark's data comes from tracking AliExpress directly, so it reflects real order activity. However, like all research tools, it should be one input in your decision-making, not the only factor. Combine with ad research and market analysis for best results."
+    },
+    {
+      "question": "AliShark vs ad spy tools: which is better?",
+      "answer": "They serve different purposes and work best together. AliShark shows what's selling on AliExpress (supply side), while ad spy tools show what's being marketed (demand side). A product selling well on AliExpress AND being heavily advertised is a stronger signal than either alone."
+    }
+  ]
 }

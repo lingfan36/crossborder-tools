@@ -1,11 +1,10 @@
 import { MetadataRoute } from 'next'
-import { getAllCourses } from '@/services/courses'
+import { getAllTools } from '@/services/tools'
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = 'https://lingfan.site'
   
-  // 获取所有工具
-  const tools = await getAllCourses()
+  const tools = await getAllTools()
   
   // 工具详情页
   const toolPages = tools.map((tool) => ({

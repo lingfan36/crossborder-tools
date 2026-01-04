@@ -1,9 +1,24 @@
 {
   "title": "Submagic",
-  "shortDescription": "AI-powered caption generator for short-form videos. Auto-transcribe in 48+ languages, add trendy animated captions, emojis, and sound effects to boost engagement.",
+  "shortDescription": "AI-powered caption generator that creates eye-catching animated subtitles. Boost video engagement with trendy caption styles perfect for TikTok and Reels.",
   "cover": "/images/tools/submagic.png",
   "slug": "submagic",
   "category": "AI Video & Marketing",
   "link": "https://www.submagic.co",
-  "features": ["AI Transcription", "Animated Captions", "48+ Languages", "Emoji Detection", "Trendy Templates"]
+  "features": ["Animated Captions", "Auto Transcription", "Emoji Integration", "Multiple Styles", "One-Click Export"],
+  "longDescription": "Submagic has become essential for anyone creating short-form video content for e-commerce. In a world where 85% of social media videos are watched without sound, captions aren't optional—they're critical for engagement and conversions. Submagic goes beyond basic subtitles by generating dynamic, animated captions that match the energy of viral TikTok content. The AI automatically transcribes your video and applies trendy caption styles with word-by-word highlighting, emoji integration, and smooth animations. For cross-border sellers, this means every product video, testimonial, or ad can capture attention even when viewers are scrolling silently. The platform offers multiple caption styles to match your brand aesthetic, from bold and energetic to clean and professional. What would take hours in traditional editing software takes minutes with Submagic. The one-click export feature delivers platform-optimized files ready for posting. For TikTok Shop sellers and dropshippers creating daily content, Submagic dramatically speeds up the editing workflow while ensuring every video has the polished, professional look that drives engagement.",
+  "faqs": [
+    {
+      "question": "How much does Submagic cost?",
+      "answer": "Submagic offers a Free trial to test the platform. Paid plans start at $19/month for the Basic plan with limited monthly minutes, and the Pro plan at $49/month offers more processing time and premium features. Annual billing provides discounts."
+    },
+    {
+      "question": "Does Submagic support languages other than English?",
+      "answer": "Yes, Submagic supports multiple languages for transcription and caption generation. This is particularly useful for cross-border sellers creating content for different markets or adding multilingual captions to reach broader audiences."
+    },
+    {
+      "question": "How is Submagic different from CapCut's auto-captions?",
+      "answer": "While CapCut offers basic auto-captions, Submagic specializes in trendy, animated caption styles that match viral TikTok aesthetics. Submagic's word-by-word highlighting, emoji integration, and diverse style options create more engaging captions that boost watch time and retention."
+    }
+  ]
 }

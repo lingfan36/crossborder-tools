@@ -1,9 +1,24 @@
 {
   "title": "Klaviyo",
-  "shortDescription": "AI-powered email and SMS marketing platform built for e-commerce. Advanced segmentation, predictive analytics, and 350+ templates to drive revenue and customer loyalty.",
+  "shortDescription": "The leading email and SMS marketing platform for e-commerce. Create automated flows, segment customers, and drive repeat purchases with data-driven campaigns.",
   "cover": "/images/tools/klaviyo.png",
   "slug": "klaviyo",
   "category": "Marketing & SEO",
   "link": "https://www.klaviyo.com",
-  "features": ["Email Automation", "SMS Marketing", "Predictive Analytics", "Advanced Segmentation", "Shopify Integration"]
+  "features": ["Email Automation", "SMS Marketing", "Customer Segmentation", "Predictive Analytics", "Shopify Integration"],
+  "longDescription": "Klaviyo has become the gold standard for e-commerce email and SMS marketing, trusted by over 100,000 brands worldwide. For cross-border sellers, email marketing typically delivers the highest ROI of any channel, and Klaviyo maximizes that return through sophisticated automation and segmentation. The platform's deep Shopify integration means your customer data flows seamlessly, enabling personalized campaigns based on purchase history, browsing behavior, and predicted lifetime value. Pre-built automation flows for welcome series, abandoned cart recovery, post-purchase follow-ups, and win-back campaigns start generating revenue immediately. The segmentation capabilities let you target customers with surgical precision—send different messages to first-time buyers versus VIP customers, or target based on specific products viewed. Klaviyo's predictive analytics forecast which customers are likely to purchase again and when, enabling proactive marketing. The SMS marketing features add another high-converting channel, particularly effective for flash sales and time-sensitive offers. While Klaviyo's pricing has increased, the platform's ability to turn one-time buyers into repeat customers makes it essential for serious e-commerce businesses focused on long-term profitability.",
+  "faqs": [
+    {
+      "question": "How much does Klaviyo cost?",
+      "answer": "Klaviyo offers a Free plan for up to 250 contacts with 500 monthly emails. Paid plans start at $20/month and scale based on your active profile count. A store with 5,000 contacts typically pays around $100/month. Pricing has increased recently, so budget accordingly."
+    },
+    {
+      "question": "Is Klaviyo better than Mailchimp for e-commerce?",
+      "answer": "For e-commerce specifically, yes. Klaviyo's Shopify integration is deeper, its automation flows are more sophisticated, and its segmentation is more powerful. Mailchimp is a good general email tool, but Klaviyo is purpose-built for e-commerce revenue generation."
+    },
+    {
+      "question": "What results can I expect from Klaviyo?",
+      "answer": "Well-optimized Klaviyo accounts typically generate 20-30% of total store revenue from email alone. Abandoned cart flows often recover 5-15% of abandoned carts, and welcome series can significantly boost first-purchase conversion rates."
+    }
+  ]
 }

@@ -1,9 +1,24 @@
 {
   "title": "Remove.bg",
-  "shortDescription": "AI-powered background removal tool. Instantly remove backgrounds from product photos with high precision, supporting images up to 50 megapixels for professional results.",
-  "cover": "/images/tools/remove.png",
+  "shortDescription": "AI-powered background removal tool. Instantly remove backgrounds from product photos with one click for clean, professional e-commerce images.",
+  "cover": "/images/tools/removebg.png",
   "slug": "remove-bg",
   "category": "Creative Tools",
   "link": "https://www.remove.bg",
-  "features": ["AI Background Removal", "Batch Processing", "API Access", "High Resolution", "Desktop App"]
+  "features": ["One-Click Removal", "Batch Processing", "API Access", "HD Quality", "Photoshop Plugin"],
+  "longDescription": "Remove.bg has become the industry standard for instant background removal, using AI to deliver results that previously required skilled Photoshop work. For cross-border e-commerce sellers, clean product images with white or transparent backgrounds are essential for marketplace listings, ads, and website design. Remove.bg processes images in seconds with remarkable accuracy, handling complex edges like hair, fur, and transparent objects that challenge other tools. The platform offers multiple ways to work: upload directly to the website, use the desktop app for batch processing, integrate via API for automated workflows, or use plugins for Photoshop and other design tools. For sellers with large catalogs, batch processing saves hours of manual editing. The API enables automated background removal as part of your product photography workflow. While the free version limits resolution, paid plans deliver full HD quality suitable for any use. For dropshippers using supplier photos, Remove.bg helps create consistent, professional imagery that builds trust. The tool integrates seamlessly with Canva and other design platforms, making it easy to place products on lifestyle backgrounds or create composite images.",
+  "faqs": [
+    {
+      "question": "Is Remove.bg free?",
+      "answer": "Remove.bg offers free background removal with limited resolution (up to 0.25 megapixels). For full HD quality, you need credits: 1 credit costs about $1, with bulk discounts available. Subscription plans start at $9/month for 40 credits."
+    },
+    {
+      "question": "Is Remove.bg better than Canva's background remover?",
+      "answer": "Remove.bg generally produces more accurate results, especially with complex edges like hair or intricate products. Canva's remover is convenient if you're already in Canva, but for best quality, Remove.bg is the specialist tool. Many sellers use Remove.bg first, then import to Canva."
+    },
+    {
+      "question": "Can Remove.bg handle product photos with shadows?",
+      "answer": "Yes, Remove.bg can preserve or remove shadows depending on your preference. The AI is trained on product photography and handles reflections, shadows, and complex backgrounds well. Results are typically cleaner than manual editing for most product types."
+    }
+  ]
 }

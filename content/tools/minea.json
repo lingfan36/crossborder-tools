@@ -1,9 +1,24 @@
 {
   "title": "Minea",
-  "shortDescription": "All-in-one ad spy tool tracking 90,000+ new ads daily across Facebook, TikTok, and Pinterest. AI-powered Success Radar helps spot viral products before competitors.",
+  "shortDescription": "Multi-platform ad spy tool covering TikTok, Facebook, Pinterest, and more. Research winning products and ad creatives across all major advertising platforms.",
   "cover": "/images/tools/minea.png",
   "slug": "minea",
   "category": "Product Research",
-  "link": "https://en.minea.com",
-  "features": ["Multi-Platform Ad Spy", "Success Radar AI", "Influencer Tracking", "Shop Analysis", "Magic Search"]
+  "link": "https://minea.com",
+  "features": ["Multi-Platform Ads", "Product Research", "Influencer Tracking", "Shop Analysis", "Chrome Extension"],
+  "longDescription": "Minea stands out in the crowded ad spy market by offering comprehensive coverage across multiple platforms—TikTok, Facebook, Instagram, Pinterest, and more—all in one tool. For cross-border e-commerce sellers, this multi-platform approach is invaluable because winning products often appear on one platform before spreading to others. By monitoring all channels, you can identify trends earlier and understand which platforms work best for different product types. The ad database contains millions of ads with detailed metrics including engagement, running time, and estimated spend. The influencer tracking feature reveals which products influencers are promoting, often a leading indicator of upcoming trends. Shop analysis lets you spy on competitor stores, seeing their best-selling products and marketing strategies. The Chrome extension enables research while browsing, instantly showing ad data for products you encounter. For sellers who advertise across multiple platforms, Minea's unified view saves the cost and complexity of subscribing to separate tools for each network. The platform is particularly strong for European markets, with good coverage of ads targeting EU countries.",
+  "faqs": [
+    {
+      "question": "How much does Minea cost?",
+      "answer": "Minea offers a Free plan with limited searches. The Starter plan at $49/month covers one platform, while the Premium plan at $99/month provides access to all platforms and features. Annual billing offers discounts up to 40%."
+    },
+    {
+      "question": "Is Minea better than PipiAds?",
+      "answer": "They have different strengths. PipiAds is the specialist for TikTok with deeper TikTok data. Minea offers broader coverage across multiple platforms. If you only advertise on TikTok, PipiAds may be better. For multi-platform sellers, Minea's unified approach is more efficient."
+    },
+    {
+      "question": "Does Minea show Facebook ads?",
+      "answer": "Yes, Minea has extensive Facebook and Instagram ad coverage alongside TikTok and Pinterest. This makes it valuable for sellers who want to research ads across all major social platforms without needing multiple subscriptions."
+    }
+  ]
 }

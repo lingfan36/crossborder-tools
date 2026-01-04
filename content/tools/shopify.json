@@ -1,9 +1,24 @@
 {
   "title": "Shopify",
-  "shortDescription": "The world's leading e-commerce platform powering 4.8M+ stores. All-in-one solution with website builder, payments, inventory, shipping, and multichannel selling capabilities.",
+  "shortDescription": "The world's leading e-commerce platform. Build, launch, and scale your online store with powerful tools for selling across multiple channels globally.",
   "cover": "/images/tools/shopify.png",
   "slug": "shopify",
   "category": "E-commerce Platforms",
   "link": "https://www.shopify.com",
-  "features": ["Store Builder", "Shopify Payments", "Inventory Management", "App Ecosystem", "POS System"]
+  "features": ["Drag-Drop Store Builder", "Multi-Channel Selling", "Payment Processing", "Inventory Management", "App Ecosystem"],
+  "longDescription": "Shopify powers over 4.8 million online stores worldwide and remains the gold standard for cross-border e-commerce. For international sellers, Shopify eliminates the technical barriers of building and running an online store, letting you focus on products and marketing. The platform handles everything from beautiful storefront design to secure payment processing, inventory management, and shipping integration. Shopify's multi-channel selling capabilities let you connect your store to Amazon, eBay, TikTok Shop, Instagram, and Facebook, managing all sales from one dashboard. The extensive app ecosystem with thousands of plugins means you can add any functionality you need—from reviews and upsells to advanced analytics and automation. Shopify Payments supports multiple currencies and international payment methods, crucial for cross-border transactions. The platform scales effortlessly from your first sale to millions in revenue, with Shopify Plus available for enterprise needs. For dropshippers, Shopify integrates seamlessly with suppliers like CJ Dropshipping and AliExpress. The industry-leading checkout conversion rates mean more of your traffic turns into paying customers.",
+  "faqs": [
+    {
+      "question": "How much does Shopify cost?",
+      "answer": "Shopify offers multiple plans: Starter at $5/month for social selling, Basic at $29/month for new businesses, Grow at $79/month for scaling stores, and Advanced at $299/month for large operations. Transaction fees range from 2.4-2.9% + $0.30 per sale depending on your plan."
+    },
+    {
+      "question": "Is Shopify good for dropshipping?",
+      "answer": "Shopify is the most popular platform for dropshipping due to its ease of use and extensive integrations. Apps like DSers, CJ Dropshipping, and Spocket connect directly to your store for automated order fulfillment. Most successful dropshipping businesses run on Shopify."
+    },
+    {
+      "question": "Can Shopify handle international sales and multiple currencies?",
+      "answer": "Yes, Shopify Markets makes international selling easy with automatic currency conversion, localized checkout experiences, and support for international payment methods. You can set different prices for different regions and manage duties and taxes automatically."
+    }
+  ]
 }

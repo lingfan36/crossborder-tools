@@ -1,9 +1,24 @@
 {
   "title": "ManyChat",
-  "shortDescription": "Chat automation platform for Instagram, Facebook, WhatsApp, and SMS. Build chatbots to automate conversations, generate leads, and boost sales 24/7 without coding.",
+  "shortDescription": "Chatbot automation platform for Instagram, Facebook Messenger, and WhatsApp. Automate customer conversations, capture leads, and drive sales 24/7.",
   "cover": "/images/tools/manychat.png",
   "slug": "manychat",
   "category": "Marketing & SEO",
   "link": "https://manychat.com",
-  "features": ["Visual Flow Builder", "Instagram Automation", "WhatsApp Business", "Lead Generation", "E-commerce Integration"]
+  "features": ["Instagram Automation", "Facebook Messenger Bots", "WhatsApp Business", "Flow Builder", "E-commerce Integration"],
+  "longDescription": "ManyChat enables cross-border e-commerce sellers to automate customer conversations across the platforms where their audience lives—Instagram, Facebook Messenger, and WhatsApp. In an era where customers expect instant responses, ManyChat ensures you never miss a sales opportunity, even while you sleep. The visual flow builder makes creating sophisticated chatbot sequences intuitive, no coding required. For Instagram sellers, ManyChat can automatically respond to DMs, comments, and story mentions, capturing leads and answering FAQs instantly. The platform excels at comment-to-DM automation—when someone comments a keyword on your post, ManyChat automatically sends them a personalized message with product links or discount codes. E-commerce integrations with Shopify and WooCommerce enable abandoned cart recovery, order updates, and personalized product recommendations through chat. For cross-border sellers, WhatsApp automation is particularly valuable in markets where WhatsApp dominates communication. ManyChat's analytics show exactly how your automations perform, enabling continuous optimization. The combination of 24/7 availability, instant response times, and personalized interactions significantly improves conversion rates and customer satisfaction.",
+  "faqs": [
+    {
+      "question": "How much does ManyChat cost?",
+      "answer": "ManyChat offers a Free plan with basic features for up to 1,000 contacts. The Pro plan starts at $15/month and scales based on contact count. Instagram automation and advanced features require Pro. A 7-day free trial of Pro is available."
+    },
+    {
+      "question": "Is ManyChat good for e-commerce?",
+      "answer": "Yes, ManyChat is excellent for e-commerce. It can automate customer support, recover abandoned carts, send shipping updates, and drive sales through personalized recommendations. The Instagram comment automation is particularly effective for driving engagement and conversions."
+    },
+    {
+      "question": "Does ManyChat work with Instagram?",
+      "answer": "Yes, ManyChat is one of the few platforms officially approved for Instagram automation. It can respond to DMs, react to story mentions, and trigger automations from post comments. This makes it invaluable for Instagram-focused e-commerce brands."
+    }
+  ]
 }

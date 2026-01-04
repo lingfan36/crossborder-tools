@@ -1,9 +1,24 @@
 {
   "title": "Creative Fabrica",
-  "shortDescription": "Digital marketplace with 18M+ design assets including fonts, graphics, and crafting resources. Perfect for print-on-demand sellers with commercial licenses included.",
+  "shortDescription": "Digital assets marketplace for fonts, graphics, and crafting files. Access millions of design resources for print-on-demand, crafting, and e-commerce.",
   "cover": "/images/tools/creativefabrica.png",
   "slug": "creative-fabrica",
   "category": "Creative Tools",
   "link": "https://www.creativefabrica.com",
-  "features": ["67,000+ Fonts", "Graphics Library", "POD Resources", "AI Design Tools", "Commercial License"]
+  "features": ["Fonts Library", "Graphics & SVGs", "Craft Files", "Commercial License", "AI Tools"],
+  "longDescription": "Creative Fabrica has become the go-to resource for e-commerce sellers who need unique design assets for their products and marketing. The platform offers millions of fonts, graphics, SVG files, and crafting resources—all with commercial licenses included. For print-on-demand sellers, Creative Fabrica provides the design elements needed to create unique products that stand out from competitors using the same generic templates. The font library alone contains thousands of unique typefaces perfect for t-shirt designs, logos, and branding. SVG files are ready for cutting machines like Cricut, while PNG graphics work for any digital application. The subscription model provides unlimited downloads, making it cost-effective for sellers who need frequent access to new designs. Recent AI tools help generate custom graphics and designs, expanding creative possibilities. For cross-border sellers building brands, consistent access to quality design assets enables professional-looking products and marketing materials. The platform also offers classes and tutorials for improving design skills. Whether you're creating Etsy listings, Amazon Merch designs, or Shopify store graphics, Creative Fabrica provides the raw materials for standout visual content.",
+  "faqs": [
+    {
+      "question": "How much does Creative Fabrica cost?",
+      "answer": "Creative Fabrica offers individual purchases or subscription plans. The All Access subscription at $29/month provides unlimited downloads of all content types. Annual plans offer significant savings. A free membership provides access to limited free resources."
+    },
+    {
+      "question": "Can I use Creative Fabrica designs for commercial products?",
+      "answer": "Yes, all downloads include a commercial license allowing use on products for sale. This covers print-on-demand, physical products, and digital products. The license is included in both individual purchases and subscription downloads."
+    },
+    {
+      "question": "Is Creative Fabrica good for print-on-demand?",
+      "answer": "Yes, Creative Fabrica is excellent for POD sellers. The SVG and PNG files work directly with print-on-demand platforms. Many sellers use Creative Fabrica fonts and graphics to create unique t-shirt designs, mugs, and other products that stand out from generic competition."
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 import Hero from '@/components/hero'
 import Lists from '@/components/lists'
-import { getAllCourses, getOneCourse } from '@/services/courses'
-import { ExternalLink } from 'lucide-react'
+import { getAllTools, getOneTool } from '@/services/tools'
+import { ExternalLink, ChevronDown } from 'lucide-react'
+import { Metadata } from 'next'
 
 interface StaticParams {
   slug: string
@@ -10,11 +11,11 @@ interface StaticParams {
 export const dynamicParams = false
 
 export async function generateStaticParams(): Promise<StaticParams[]> {
-  const courses = await getAllCourses()
+  const tools = await getAllTools()
 
-  return courses.map((course) => {
+  return tools.map((tool) => {
     return {
-      slug: `${course.slug}`,
+      slug: `${tool.slug}`,
     }
   })
 }
@@ -25,12 +26,26 @@ interface PageProps {
   }>
 }
 
+export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
+  const { slug } = await params
+  const tool = await getOneTool(slug)
+  
+  if (!tool) {
+    return { title: 'Tool Not Found' }
+  }
+
+  return {
+    title: `${tool.title} - CrossBorder Tools`,
+    description: tool.shortDescription,
+  }
+}
+
 export default async function ToolDetailsPage(props: PageProps) {
   const params = await props.params
 
   const { slug } = params
 
-  const tool = await getOneCourse(slug)
+  const tool = await getOneTool(slug)
 
   if (!tool) {
     return <p className="text-center mt-10">Tool not found</p>
@@ -64,6 +79,39 @@ export default async function ToolDetailsPage(props: PageProps) {
         <section>
           <Lists title="Key Features" items={tool.features} />
         </section>
+
+        {/* Long Description */}
+        {tool.longDescription && (
+          <section className="mt-10">
+            <h2 className="text-2xl font-bold text-gray-800 mb-4">In-Depth Review</h2>
+            <div className="prose prose-lg max-w-none text-gray-700 leading-relaxed">
+              <p>{tool.longDescription}</p>
+            </div>
+          </section>
+        )}
+
+        {/* FAQs */}
+        {tool.faqs && tool.faqs.length > 0 && (
+          <section className="mt-10">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">Frequently Asked Questions</h2>
+            <div className="space-y-4">
+              {tool.faqs.map((faq, index) => (
+                <details 
+                  key={index} 
+                  className="group bg-gray-50 rounded-xl p-5 cursor-pointer"
+                >
+                  <summary className="flex items-center justify-between font-semibold text-gray-800 list-none">
+                    <span>{faq.question}</span>
+                    <ChevronDown className="w-5 h-5 text-gray-500 group-open:rotate-180 transition-transform" />
+                  </summary>
+                  <p className="mt-4 text-gray-600 leading-relaxed">
+                    {faq.answer}
+                  </p>
+                </details>
+              ))}
+            </div>
+          </section>
+        )}
 
         <footer className="mt-10">
           <a

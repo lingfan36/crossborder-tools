@@ -1,9 +1,24 @@
 {
   "title": "CJ Dropshipping",
-  "shortDescription": "All-in-one dropshipping platform with product sourcing, warehousing, and global fulfillment. Custom packaging, fast shipping via CJPacket, and seamless Shopify integration.",
+  "shortDescription": "All-in-one dropshipping platform with product sourcing, warehousing, and fulfillment. Access millions of products with faster shipping than AliExpress.",
   "cover": "/images/tools/cjdropshipping.png",
   "slug": "cj-dropshipping",
   "category": "Logistics & Payments",
   "link": "https://cjdropshipping.com",
-  "features": ["Product Sourcing", "Global Warehouses", "Auto Fulfillment", "Custom Branding", "Quality Inspection"]
+  "features": ["Product Sourcing", "Global Warehouses", "Print on Demand", "Quality Inspection", "Shopify Integration"],
+  "longDescription": "CJ Dropshipping has emerged as the preferred fulfillment partner for serious dropshippers who've outgrown AliExpress. The platform addresses the biggest pain points in dropshipping: slow shipping times, inconsistent quality, and poor communication. With warehouses in the US, EU, and Asia, CJ offers significantly faster delivery times than shipping directly from China—often 5-8 days to the US compared to 15-30 days via ePacket. The product sourcing service finds any product you need, often at better prices than AliExpress, and handles supplier negotiations on your behalf. Quality inspection services ensure products meet your standards before shipping to customers, reducing returns and complaints. For branded dropshipping, CJ offers custom packaging, thank you cards, and product inserts. The print-on-demand service enables custom products without inventory investment. Integration with Shopify, WooCommerce, and other platforms automates order fulfillment—when a customer orders, CJ processes and ships automatically. For cross-border sellers scaling beyond hobby-level dropshipping, CJ Dropshipping provides the infrastructure and reliability needed to build a sustainable business with satisfied customers.",
+  "faqs": [
+    {
+      "question": "Is CJ Dropshipping free to use?",
+      "answer": "Yes, CJ Dropshipping is free to join with no monthly fees. You only pay for products and shipping when orders are placed. Some premium services like US warehouse storage have additional fees, but the core platform is completely free."
+    },
+    {
+      "question": "Is CJ Dropshipping better than AliExpress?",
+      "answer": "For serious dropshippers, yes. CJ offers faster shipping through global warehouses, better quality control, product sourcing services, and more reliable fulfillment. AliExpress is fine for testing products, but CJ is better for scaling a real business."
+    },
+    {
+      "question": "How fast is CJ Dropshipping shipping?",
+      "answer": "Shipping times vary by warehouse location. US warehouse orders typically arrive in 5-8 days, EU warehouse in 5-10 days, and China warehouse in 10-20 days. This is significantly faster than typical AliExpress shipping of 15-45 days."
+    }
+  ]
 }

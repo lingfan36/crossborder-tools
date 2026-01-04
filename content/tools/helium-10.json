@@ -1,9 +1,24 @@
 {
   "title": "Helium 10",
-  "shortDescription": "All-in-one Amazon seller software suite with 30+ tools for product research, keyword optimization, listing management, and PPC analytics. Trusted by over 2 million sellers.",
+  "shortDescription": "The most comprehensive Amazon seller toolkit with 30+ tools for product research, keyword optimization, listing management, and business analytics.",
   "cover": "/images/tools/helium10.png",
   "slug": "helium-10",
   "category": "Product Research",
   "link": "https://www.helium10.com",
-  "features": ["Black Box", "Cerebro Keywords", "Magnet", "Listing Optimizer", "Profits Dashboard"]
+  "features": ["Black Box Product Research", "Cerebro Keyword Analysis", "Magnet Keyword Tool", "Listing Optimizer", "Profits Dashboard"],
+  "longDescription": "Helium 10 is the Swiss Army knife of Amazon selling, offering over 30 integrated tools that cover every aspect of running a successful FBA business. For cross-border e-commerce entrepreneurs, this all-in-one platform eliminates the need for multiple subscriptions by consolidating product research, keyword optimization, listing creation, and analytics into a single dashboard. Black Box helps you discover profitable product opportunities by filtering through Amazon's massive catalog. Cerebro reverse-engineers competitor keywords, revealing exactly how top sellers rank. The Listing Builder uses AI to create optimized product listings that convert browsers into buyers. What sets Helium 10 apart is its continuous innovation—recent updates include TikTok Shop integration and AI-powered listing builders. The Profits Dashboard gives you real-time visibility into your business health, tracking everything from PPC spend to refunds. For sellers serious about scaling their Amazon business across multiple international marketplaces, Helium 10 provides the comprehensive toolkit needed to compete and win.",
+  "faqs": [
+    {
+      "question": "What is Helium 10 pricing in 2025?",
+      "answer": "Helium 10 offers a Free plan with limited access, Starter at $29/month, Platinum at $79/month (most popular), and Diamond at $229/month for advanced users. The Platinum plan provides full access to all essential tools needed to find and launch products successfully. Annual billing offers significant savings."
+    },
+    {
+      "question": "Does Helium 10 have a free version?",
+      "answer": "Yes, Helium 10 offers a generous free plan that includes limited access to Black Box, Xray, keyword research tools, analytics, and the Chrome extension. It's perfect for beginners to test the platform before committing to a paid subscription."
+    },
+    {
+      "question": "Is Helium 10 worth it for beginners?",
+      "answer": "Absolutely. While Helium 10 has a learning curve due to its extensive feature set, it offers comprehensive training through Freedom Ticket (included with paid plans) and an active community. The Starter plan at $29/month is an affordable entry point for new sellers to access professional-grade tools."
+    }
+  ]
 }

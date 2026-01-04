@@ -1,6 +1,6 @@
 import fs from 'fs'
 import path from 'path'
-import { getOneCourse } from './courses'
+import { getOneTool } from './tools'
 
 export interface CollectionTool {
   toolSlug: string
@@ -63,7 +63,7 @@ export async function getCollectionWithTools(slug: string) {
 
   const toolsWithDetails = await Promise.all(
     collection.tools.map(async (item) => {
-      const toolDetails = await getOneCourse(item.toolSlug)
+      const toolDetails = await getOneTool(item.toolSlug)
       return {
         ...item,
         details: toolDetails,

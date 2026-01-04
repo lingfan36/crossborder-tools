@@ -1,9 +1,24 @@
 {
   "title": "HeyGen",
-  "shortDescription": "AI video platform that creates professional talking-head videos using photorealistic avatars. Generate marketing videos, training content, and localized clips without cameras or studios.",
+  "shortDescription": "Create professional AI avatar videos in minutes. Generate realistic talking head videos for marketing, training, and e-commerce without cameras or actors.",
   "cover": "/images/tools/heygen.png",
   "slug": "heygen",
   "category": "AI Video & Marketing",
   "link": "https://www.heygen.com",
-  "features": ["AI Avatars", "Text-to-Video", "Voice Cloning", "Multi-language", "Video Translation"]
+  "features": ["700+ AI Avatars", "175+ Languages", "Voice Cloning", "Custom Avatar Creation", "Video Templates"],
+  "longDescription": "HeyGen is transforming how cross-border e-commerce businesses create video content. Instead of expensive video shoots, hiring actors, or appearing on camera yourself, HeyGen lets you generate photorealistic AI avatar videos from simple text scripts. For international sellers, the platform's support for 175+ languages is game-changing—create product demos, customer support videos, and marketing content in any language without hiring native speakers. The 700+ stock avatars cover diverse ethnicities and styles, or you can create a custom avatar of yourself for consistent branding. Voice cloning technology ensures your avatar sounds natural and engaging. Recent integration with OpenAI's Sora enables instant B-roll and scene generation, making professional video production accessible to anyone. For TikTok Shop sellers and dropshippers, HeyGen enables rapid creation of UGC-style content that drives conversions. The platform handles everything from script to final video, dramatically reducing the time and cost of video marketing while maintaining professional quality.",
+  "faqs": [
+    {
+      "question": "How much does HeyGen cost?",
+      "answer": "HeyGen offers a Free plan with limited credits, Creator plan at $29/month with 1080p export and access to 700+ avatars, and Business plans for teams starting at $89/month. Enterprise pricing is available for large organizations with custom needs."
+    },
+    {
+      "question": "Can HeyGen create videos in Chinese and other Asian languages?",
+      "answer": "Yes, HeyGen supports 175+ languages including Mandarin Chinese, Cantonese, Japanese, Korean, and many more. The AI voices are natural-sounding and the lip-sync technology works across all supported languages, making it perfect for cross-border sellers targeting Asian markets."
+    },
+    {
+      "question": "Is HeyGen good for e-commerce product videos?",
+      "answer": "Absolutely. HeyGen excels at creating product demos, explainer videos, and UGC-style content for e-commerce. Many dropshippers and TikTok Shop sellers use it to create engaging product videos at scale without the cost of traditional video production."
+    }
+  ]
 }

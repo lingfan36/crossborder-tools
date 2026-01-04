@@ -1,9 +1,24 @@
 {
   "title": "Placeit",
-  "shortDescription": "Online mockup generator and design toolkit by Envato. Create professional product mockups, logos, videos, and social media graphics with 79,000+ customizable templates.",
+  "shortDescription": "Mockup generator and design tool. Create professional product mockups, logos, and videos without Photoshop skills or expensive photo shoots.",
   "cover": "/images/tools/placeit.png",
   "slug": "placeit",
   "category": "Creative Tools",
   "link": "https://placeit.net",
-  "features": ["Mockup Generator", "Logo Maker", "Video Templates", "T-Shirt Designs", "Social Media Graphics"]
+  "features": ["Product Mockups", "Logo Maker", "Video Templates", "T-Shirt Designs", "Social Media Templates"],
+  "longDescription": "Placeit enables e-commerce sellers to create professional product mockups and marketing materials without photography equipment, models, or design skills. For cross-border sellers, especially those in print-on-demand or apparel, showing products in realistic lifestyle contexts dramatically increases conversions—but professional photo shoots are expensive and time-consuming. Placeit solves this with thousands of mockup templates featuring real models and environments. Simply upload your design, and it's automatically placed on t-shirts, mugs, phone cases, packaging, and more with realistic shadows and wrinkles. The video mockup feature creates animated product showcases perfect for social media ads. Beyond mockups, Placeit offers a logo maker for creating brand identities, social media templates for consistent content, and design tools for creating the actual graphics that go on your products. For print-on-demand sellers on platforms like Printful or Printify, Placeit is essential for creating listing images that compete with established brands. The unlimited subscription provides access to the entire library, making it cost-effective for sellers who need frequent mockups across multiple products.",
+  "faqs": [
+    {
+      "question": "How much does Placeit cost?",
+      "answer": "Placeit offers individual downloads starting at $7.95 each, or unlimited access subscriptions at $14.95/month or $89.69/year. The subscription is best value for active sellers who need multiple mockups. A free tier with limited templates is available."
+    },
+    {
+      "question": "Is Placeit good for print-on-demand?",
+      "answer": "Placeit is essential for print-on-demand sellers. It provides realistic mockups for t-shirts, hoodies, mugs, and other POD products without needing actual samples. The lifestyle mockups with models help your listings compete with established brands that have professional photography."
+    },
+    {
+      "question": "Can I use Placeit mockups commercially?",
+      "answer": "Yes, all Placeit downloads include a commercial license. You can use mockups for product listings, ads, social media, and any commercial purpose. This makes Placeit safe for business use without copyright concerns."
+    }
+  ]
 }

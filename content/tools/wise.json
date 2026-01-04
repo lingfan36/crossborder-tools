@@ -1,9 +1,24 @@
 {
   "title": "Wise",
-  "shortDescription": "International money transfer service using real mid-market exchange rates. Send money to 70+ countries, hold 40+ currencies, and spend globally with the Wise card.",
+  "shortDescription": "International money transfer service with the real exchange rate. Send money abroad, hold multiple currencies, and pay suppliers with minimal fees.",
   "cover": "/images/tools/wise.png",
   "slug": "wise",
   "category": "Logistics & Payments",
   "link": "https://wise.com",
-  "features": ["Mid-Market Rates", "Multi-Currency Account", "Wise Debit Card", "Business Account", "Fast Transfers"]
+  "features": ["Real Exchange Rate", "Multi-Currency Account", "Debit Card", "Business Account", "API Integration"],
+  "longDescription": "Wise (formerly TransferWise) has revolutionized international money transfers by offering the real mid-market exchange rate with transparent, low fees. For cross-border e-commerce sellers, this translates to significant savings when paying suppliers, receiving payments, or converting currencies. Traditional banks hide fees in inflated exchange rates—Wise shows you exactly what you'll pay upfront, typically saving 3-5% compared to bank transfers. The multi-currency account lets you hold balances in 40+ currencies, receiving money with local bank details in USD, EUR, GBP, and more. This is invaluable for sellers operating across multiple markets. The Wise Business account adds features like batch payments for paying multiple suppliers, team access controls, and accounting integrations. The Wise debit card lets you spend in any currency at the real exchange rate, perfect for business travel or online purchases. For e-commerce sellers paying Chinese suppliers, Wise offers competitive rates for CNY transfers. The platform serves over 16 million customers and moves billions monthly, making it one of the most trusted names in international payments.",
+  "faqs": [
+    {
+      "question": "How much does Wise charge for transfers?",
+      "answer": "Wise fees vary by currency and payment method but are always shown upfront. Typical fees range from 0.3% to 2% of the transfer amount. For example, sending $1,000 USD to EUR might cost around $5-10. Wise always uses the real mid-market exchange rate with no markup."
+    },
+    {
+      "question": "Is Wise safe for large business transfers?",
+      "answer": "Yes, Wise is regulated by financial authorities in multiple countries including the FCA (UK), FinCEN (US), and others. It's a publicly-traded company (LSE: WISE) trusted by millions of businesses. Funds are held in regulated financial institutions."
+    },
+    {
+      "question": "Wise vs Payoneer: which should I use?",
+      "answer": "Use both for different purposes. Wise offers better exchange rates for direct transfers and supplier payments. Payoneer is better for receiving marketplace payments (Amazon, etc.) due to direct integrations. Many successful sellers use Wise for outgoing payments and Payoneer for incoming marketplace funds."
+    }
+  ]
 }

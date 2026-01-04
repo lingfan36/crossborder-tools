@@ -5,7 +5,7 @@ interface ListsProps {
   items: string[]
 }
 
-const Lists: FC<ListsProps> = ({ title = 'Courses Offered', items }) => {
+const Lists: FC<ListsProps> = ({ title = 'Key Features', items }) => {
   return (
     <div>
       <h2 className="mb-6 text-xl font-semibold text-slate-900">{title}</h2>

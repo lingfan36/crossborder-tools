@@ -1,9 +1,24 @@
 {
   "title": "17Track",
-  "shortDescription": "Global package tracking platform supporting 900+ carriers worldwide. Track international shipments in one place with batch tracking, alerts, and API access.",
+  "shortDescription": "Universal package tracking platform supporting 2800+ carriers worldwide. Track shipments from China, monitor delivery status, and provide customers with real-time updates.",
   "cover": "/images/tools/17track.png",
   "slug": "17track",
   "category": "Logistics & Payments",
   "link": "https://www.17track.net",
-  "features": ["900+ Carriers", "Batch Tracking", "Shipping Alerts", "API Access", "Multi-language"]
+  "features": ["2800+ Carriers", "Real-Time Tracking", "Shopify App", "API Access", "Multi-Language"],
+  "longDescription": "17Track has become the go-to tracking solution for cross-border e-commerce, supporting over 2800 carriers and 190 airlines worldwide. For dropshippers and international sellers, package tracking is a constant customer service challenge—17Track solves this by providing a single platform to monitor shipments regardless of carrier. The platform excels at tracking packages from China, automatically detecting carriers and providing updates even when packages transfer between multiple logistics providers. For Shopify store owners, the 17Track app integrates directly into your store, allowing customers to track orders without leaving your site—reducing support tickets and improving customer experience. The branded tracking page feature lets you customize the tracking experience with your logo and colors, maintaining brand consistency. API access enables developers to build custom tracking solutions or integrate tracking data into existing systems. For sellers managing high volumes of shipments, batch tracking and automated notifications save hours of manual work. The platform supports multiple languages, essential for serving international customers. Whether you're shipping via ePacket, YunExpress, or any major carrier, 17Track provides the visibility needed to keep customers informed and reduce 'where is my order' inquiries.",
+  "faqs": [
+    {
+      "question": "Is 17Track free to use?",
+      "answer": "17Track offers a Free plan for basic tracking needs. Paid plans start at $9/month for the Basic plan with more tracking queries, up to $159/month for Enterprise with API access and advanced features. The free plan is sufficient for small sellers."
+    },
+    {
+      "question": "Does 17Track work with Chinese shipping carriers?",
+      "answer": "Yes, 17Track excels at tracking packages from China. It supports all major Chinese carriers including China Post, YunExpress, Yanwen, 4PX, and hundreds more. The platform automatically detects carriers and tracks packages through multiple handoffs."
+    },
+    {
+      "question": "Can I add 17Track to my Shopify store?",
+      "answer": "Yes, 17Track offers a Shopify app that adds a branded tracking page to your store. Customers can track orders directly on your site, and you can send automated tracking notifications. This reduces support inquiries and improves customer experience."
+    }
+  ]
 }

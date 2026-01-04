@@ -1,9 +1,24 @@
 {
   "title": "WooCommerce",
-  "shortDescription": "Open-source e-commerce plugin for WordPress. Build fully customizable online stores with unlimited products, 1000+ extensions, and complete ownership of your data.",
+  "shortDescription": "Free, open-source e-commerce plugin for WordPress. Build a fully customizable online store with complete control over your data and design.",
   "cover": "/images/tools/woocommerce.png",
   "slug": "woocommerce",
   "category": "E-commerce Platforms",
   "link": "https://woocommerce.com",
-  "features": ["WordPress Integration", "1000+ Extensions", "Payment Gateways", "Shipping Options", "Full Customization"]
+  "features": ["WordPress Integration", "Open Source", "Unlimited Customization", "No Transaction Fees", "Extensive Plugins"],
+  "longDescription": "WooCommerce transforms any WordPress website into a powerful e-commerce store, offering cross-border sellers complete control and flexibility that hosted platforms can't match. As an open-source solution, WooCommerce is free to use with no transaction fees eating into your margins—you only pay for hosting and any premium extensions you choose. For sellers who want full ownership of their store and data, this is invaluable. The WordPress ecosystem provides unlimited customization possibilities through thousands of themes and plugins, letting you build exactly the store you envision. WooCommerce excels for content-driven commerce, making it ideal for sellers who rely on SEO and blogging to drive traffic. The platform supports unlimited products, variations, and digital downloads. For cross-border sellers, extensions enable multi-currency pricing, international shipping calculations, and localized payment gateways. While WooCommerce requires more technical knowledge than Shopify, the trade-off is complete freedom and potentially lower long-term costs. For established businesses with specific requirements or those scaling beyond basic platform limitations, WooCommerce offers the flexibility to build a truly custom e-commerce experience.",
+  "faqs": [
+    {
+      "question": "Is WooCommerce really free?",
+      "answer": "The core WooCommerce plugin is 100% free. However, you'll need to pay for web hosting ($5-50/month), a domain name, and potentially premium themes or extensions. Unlike Shopify, there are no transaction fees, which can save significant money at scale."
+    },
+    {
+      "question": "Is WooCommerce better than Shopify?",
+      "answer": "It depends on your needs. WooCommerce offers more customization and lower long-term costs but requires technical knowledge. Shopify is easier to use with better support but has monthly fees and transaction costs. WooCommerce is better for SEO-focused businesses; Shopify is better for beginners."
+    },
+    {
+      "question": "Can WooCommerce handle international e-commerce?",
+      "answer": "Yes, with the right extensions. Plugins like WPML enable multi-language stores, while currency switchers handle multi-currency pricing. WooCommerce integrates with international payment gateways and shipping carriers, though setup requires more configuration than Shopify."
+    }
+  ]
 }

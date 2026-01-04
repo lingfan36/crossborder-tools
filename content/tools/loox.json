@@ -1,9 +1,24 @@
 {
   "title": "Loox",
-  "shortDescription": "Visual product reviews app for Shopify. Automatically collect photo and video reviews, display customizable widgets, and drive sales with authentic social proof.",
+  "shortDescription": "Photo review app for Shopify that collects and displays customer reviews with images. Build social proof and increase conversions with visual testimonials.",
   "cover": "/images/tools/loox.png",
   "slug": "loox",
   "category": "E-commerce Platforms",
-  "link": "https://loox.app",
-  "features": ["Photo Reviews", "Video Reviews", "Auto-Collection", "Referral Program", "Google Shopping Stars"]
+  "link": "https://loox.io",
+  "features": ["Photo Reviews", "Automated Collection", "Review Widgets", "Referral Program", "Google Integration"],
+  "longDescription": "Loox transforms customer reviews into your most powerful sales tool by focusing on visual social proof. For cross-border e-commerce sellers, trust is the biggest barrier to conversion—customers hesitate to buy from unfamiliar international stores. Loox solves this by automatically collecting photo and video reviews from customers, then displaying them beautifully throughout your store. The visual nature of these reviews is far more persuasive than text alone, showing real customers with real products. The automated review request system sends perfectly timed emails after delivery, offering discounts in exchange for photo reviews to maximize collection rates. Loox's widgets integrate seamlessly into product pages, homepages, and even checkout, providing social proof at every decision point. The platform also syncs reviews to Google Shopping, improving your ad performance with star ratings. For dropshippers concerned about product quality perception, authentic customer photos build confidence that stock images never can. The built-in referral program turns happy customers into brand advocates. Loox has helped thousands of stores increase conversion rates by 15-30% through the power of visual social proof.",
+  "faqs": [
+    {
+      "question": "How much does Loox cost?",
+      "answer": "Loox offers plans starting at $9.99/month for the Beginner plan with 100 monthly review request emails. The Growth plan at $34.99/month and Unlimited plan at $299.99/month offer more emails and advanced features. A 14-day free trial is available."
+    },
+    {
+      "question": "How does Loox compare to other review apps like Judge.me?",
+      "answer": "Loox specializes in photo and video reviews with beautiful display widgets, making it ideal for visual products. Judge.me offers more features at lower prices but with less focus on visual content. For fashion, beauty, and lifestyle products where photos matter most, Loox typically performs better."
+    },
+    {
+      "question": "Can Loox help with Google Shopping ads?",
+      "answer": "Yes, Loox integrates with Google to display star ratings in your Shopping ads and search results. This Google Seller Ratings integration can significantly improve click-through rates on your ads by showing social proof directly in search results."
+    }
+  ]
 }

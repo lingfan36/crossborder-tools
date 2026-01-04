@@ -1,9 +1,24 @@
 {
   "title": "InVideo",
-  "shortDescription": "AI video maker that turns text prompts into complete videos with scripts, visuals, voiceovers, and edits. Access 16M+ stock media and create professional content in minutes.",
+  "shortDescription": "AI video creation platform for marketing content. Create professional promotional videos, ads, and social media content with templates and stock footage.",
   "cover": "/images/tools/invideo.png",
   "slug": "invideo",
   "category": "AI Video & Marketing",
   "link": "https://invideo.io",
-  "features": ["Text-to-Video AI", "16M+ Stock Library", "AI Voiceovers", "5000+ Templates", "Team Collaboration"]
+  "features": ["5000+ Templates", "AI Script Generator", "Stock Media Library", "Text-to-Video", "Brand Kit"],
+  "longDescription": "InVideo empowers cross-border e-commerce sellers to create professional marketing videos without any design or editing experience. The platform combines AI-powered tools with an extensive library of 5000+ templates specifically designed for marketing, ads, and social media content. For sellers who need to produce video content at scale, InVideo's text-to-video feature is transformative—simply input your product description or marketing copy, and the AI generates a complete video with relevant visuals, transitions, and music. The massive stock media library includes millions of photos, videos, and audio tracks, eliminating the need for expensive custom shoots. The Brand Kit feature ensures consistency across all your content by storing your logos, colors, and fonts for one-click application. InVideo excels at creating Facebook and Instagram ads, product showcases, and promotional content that converts. For cross-border sellers managing multiple products and markets, the ability to quickly produce localized video content in different languages gives you a significant competitive advantage in global e-commerce.",
+  "faqs": [
+    {
+      "question": "How much does InVideo cost?",
+      "answer": "InVideo offers a Free plan with watermarked exports. The Plus plan at $25/month removes watermarks and provides more export minutes. The Max plan at $60/month offers unlimited exports and premium features. Annual billing saves up to 50%."
+    },
+    {
+      "question": "Is InVideo good for e-commerce product videos?",
+      "answer": "Yes, InVideo is excellent for e-commerce. It offers templates specifically designed for product showcases, promotional ads, and social media marketing. The AI can generate videos from product descriptions, making it easy to create content for large catalogs."
+    },
+    {
+      "question": "How does InVideo compare to Canva for video?",
+      "answer": "InVideo is more specialized for video creation with advanced features like AI script generation and text-to-video. Canva is better as an all-around design tool. For dedicated video marketing, InVideo offers more templates, stock footage, and video-specific features."
+    }
+  ]
 }

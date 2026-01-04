@@ -1,9 +1,24 @@
 {
   "title": "PageFly",
-  "shortDescription": "The #1 Shopify landing page builder with drag-and-drop editor. Create high-converting pages with 120+ CRO templates, A/B testing, and full theme compatibility.",
+  "shortDescription": "Advanced Shopify page builder for creating high-converting landing pages, product pages, and store sections without coding knowledge.",
   "cover": "/images/tools/pagefly.png",
   "slug": "pagefly",
   "category": "E-commerce Platforms",
   "link": "https://pagefly.io",
-  "features": ["Drag-and-Drop Editor", "120+ Templates", "A/B Testing", "Mobile Responsive", "SEO Optimized"]
+  "features": ["Drag-Drop Builder", "Conversion Elements", "Mobile Optimization", "A/B Testing", "Template Library"],
+  "longDescription": "PageFly empowers Shopify store owners to create stunning, high-converting pages without touching a line of code. For cross-border e-commerce sellers, first impressions matter enormously—and PageFly ensures your landing pages, product pages, and homepage sections look professional and convert visitors into customers. The intuitive drag-and-drop builder offers complete design freedom while maintaining fast page load speeds crucial for SEO and user experience. PageFly's library of conversion-focused elements includes countdown timers, trust badges, size charts, and FAQ sections that address buyer concerns and drive purchases. The platform excels at mobile optimization, automatically adjusting layouts for the 70%+ of e-commerce traffic coming from mobile devices. For sellers running paid ads, PageFly's landing page capabilities let you create targeted pages for specific campaigns, dramatically improving ad ROI. A/B testing features help you optimize continuously based on real data. The template library provides professionally designed starting points for any page type. For dropshippers and brand owners who need to stand out in competitive markets, PageFly transforms basic Shopify themes into conversion machines.",
+  "faqs": [
+    {
+      "question": "How much does PageFly cost?",
+      "answer": "PageFly offers a Free plan with basic features and limited pages. The Pay As You Go plan at $24/month provides more pages and features. The Unlimited plan at $99/month offers unlimited pages and priority support. All plans include the core drag-and-drop builder."
+    },
+    {
+      "question": "Is PageFly better than Shopify's built-in editor?",
+      "answer": "Yes, for advanced customization. Shopify's native editor is limited in design options. PageFly offers far more elements, layout options, and conversion features. If you want pages that stand out and convert better than standard Shopify themes, PageFly is worth the investment."
+    },
+    {
+      "question": "Does PageFly slow down my Shopify store?",
+      "answer": "PageFly is optimized for performance and generates clean code. While any page builder adds some overhead, PageFly's impact is minimal compared to competitors. The platform includes lazy loading and optimization features to maintain fast page speeds."
+    }
+  ]
 }

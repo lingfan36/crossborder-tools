@@ -1,9 +1,24 @@
 {
   "title": "Ecomhunt",
-  "shortDescription": "Daily curated winning products for dropshippers. Hand-picked trending items with profit margins, supplier info, Facebook ad targeting suggestions, and engagement analytics.",
+  "shortDescription": "Daily curated winning products for dropshipping. Discover hand-picked products with supplier links, targeting suggestions, and ad examples.",
   "cover": "/images/tools/ecomhunt.png",
   "slug": "ecomhunt",
   "category": "Product Research",
   "link": "https://ecomhunt.com",
-  "features": ["Daily Winning Products", "Profit Calculator", "Ad Targeting Data", "Supplier Links", "Engagement Metrics"]
+  "features": ["Daily Product Picks", "Supplier Links", "Ad Examples", "Targeting Suggestions", "Profit Calculator"],
+  "longDescription": "Ecomhunt takes a unique approach to product research by doing the heavy lifting for you. Instead of searching through millions of products, you get hand-picked winning products delivered daily, complete with everything needed to start selling immediately. Each product listing includes supplier links (usually AliExpress), Facebook ad examples that are already working, suggested targeting audiences, and profit margin calculations. For new dropshippers overwhelmed by product research, Ecomhunt provides a curated starting point with proven products. The platform's team analyzes trends, ad performance, and market data to identify products with genuine potential before they become saturated. Beyond daily picks, Ecomhunt offers a product database for searching historical winners and a Chrome extension for analyzing products while browsing. The community aspect lets you see what other sellers are testing and discussing. While experienced sellers may prefer doing their own research with tools like PipiAds, Ecomhunt is invaluable for beginners learning what makes a winning product. The time saved on research can be invested in marketing and store optimization instead.",
+  "faqs": [
+    {
+      "question": "How much does Ecomhunt cost?",
+      "answer": "Ecomhunt offers a Free plan with limited access to older products. The Pro plan at $29/month provides full access to daily picks, ad examples, and all features. Annual billing offers discounts. The free plan is useful for evaluating the platform."
+    },
+    {
+      "question": "Are Ecomhunt products saturated?",
+      "answer": "Some products may become saturated since many users see the same picks. However, Ecomhunt adds new products daily and provides targeting suggestions to help differentiate. Success depends more on your marketing execution than the product alone."
+    },
+    {
+      "question": "Is Ecomhunt good for beginners?",
+      "answer": "Yes, Ecomhunt is excellent for beginners. The curated approach removes the overwhelming task of product research, and the included ad examples and targeting suggestions provide a learning framework. It's a great way to understand what makes products successful."
+    }
+  ]
 }

@@ -1,9 +1,24 @@
 {
   "title": "Payoneer",
-  "shortDescription": "Leading cross-border payment platform for e-commerce sellers. Receive payments from Amazon, eBay, Walmart with multi-currency accounts and competitive withdrawal rates.",
+  "shortDescription": "Global payment platform for cross-border businesses. Receive payments from marketplaces, pay suppliers, and manage multiple currencies with local receiving accounts.",
   "cover": "/images/tools/payoneer.png",
   "slug": "payoneer",
   "category": "Logistics & Payments",
   "link": "https://www.payoneer.com",
-  "features": ["Multi-Currency Accounts", "Marketplace Payouts", "Global Payments", "Working Capital", "Mass Payouts"]
+  "features": ["Multi-Currency Accounts", "Marketplace Integration", "Global Payments", "Prepaid Card", "Mass Payouts"],
+  "longDescription": "Payoneer has become essential infrastructure for cross-border e-commerce sellers who need to receive payments from international marketplaces and pay suppliers globally. The platform provides local receiving accounts in USD, EUR, GBP, and other major currencies, allowing you to receive payments as if you had a local bank account in those countries—without actually being there. For Amazon sellers, Payoneer integrates directly with Amazon's payment system across all marketplaces, consolidating your global earnings into one account. The same applies to other platforms like Walmart, Wish, and major freelance marketplaces. When it's time to pay suppliers, Payoneer offers competitive exchange rates and low fees for international transfers. The prepaid Mastercard lets you access your funds anywhere, useful for business expenses while traveling. For agencies and businesses with multiple payees, the mass payout feature streamlines paying contractors and suppliers. While Payoneer's fees are higher than some alternatives like Wise for simple transfers, the platform's marketplace integrations and multi-currency account features make it invaluable for sellers operating across multiple international platforms.",
+  "faqs": [
+    {
+      "question": "How much does Payoneer charge?",
+      "answer": "Payoneer is free to join. Receiving payments from marketplaces is typically free. Withdrawing to your local bank costs $1.50 for same-currency withdrawals, while cross-currency withdrawals include a conversion fee up to 3%. Transfers between Payoneer users are free."
+    },
+    {
+      "question": "Is Payoneer safe and legitimate?",
+      "answer": "Yes, Payoneer is a publicly-traded company (NASDAQ: PAYO) regulated in multiple jurisdictions. It's trusted by millions of businesses and is an official payment partner for Amazon, Walmart, and other major marketplaces. Your funds are held in regulated financial institutions."
+    },
+    {
+      "question": "Payoneer vs Wise: which is better?",
+      "answer": "It depends on your needs. Payoneer is better for receiving marketplace payments (Amazon, etc.) due to direct integrations. Wise offers lower fees for simple international transfers and better exchange rates. Many sellers use both—Payoneer for marketplace income, Wise for supplier payments."
+    }
+  ]
 }

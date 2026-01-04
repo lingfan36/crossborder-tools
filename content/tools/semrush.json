@@ -1,9 +1,24 @@
 {
   "title": "Semrush",
-  "shortDescription": "All-in-one digital marketing toolkit with 55+ tools for SEO, PPC, content marketing, and competitor analysis. Research keywords, audit sites, and track rankings.",
+  "shortDescription": "The most comprehensive SEO and digital marketing toolkit. Analyze competitors, research keywords, audit your site, and track rankings across global markets.",
   "cover": "/images/tools/semrush.png",
   "slug": "semrush",
   "category": "Marketing & SEO",
   "link": "https://www.semrush.com",
-  "features": ["Keyword Research", "Site Audit", "Backlink Analysis", "Position Tracking", "Competitor Analysis"]
+  "features": ["Keyword Research", "Competitor Analysis", "Site Audit", "Rank Tracking", "Content Marketing"],
+  "longDescription": "Semrush stands as the most comprehensive digital marketing platform available, consolidating 55+ tools that would otherwise require multiple subscriptions. For cross-border e-commerce sellers, organic search traffic is often the most profitable channel, and Semrush provides everything needed to dominate search results globally. The keyword research tools reveal exactly what your potential customers are searching for, with data covering 140+ countries and databases. Competitor analysis shows you which keywords drive traffic to rival stores, what content performs best, and where their backlinks come from—intelligence you can use to outrank them. The site audit feature identifies technical SEO issues hurting your rankings, from slow page speeds to broken links. For international sellers, Semrush's global database lets you research keywords and competitors in any market you're targeting. The content marketing toolkit helps you create SEO-optimized blog posts and product descriptions that rank. Recent AI integrations make the platform even more powerful, with tools for monitoring your visibility in AI search results. With over 1.17 million users worldwide, Semrush has become the industry standard for serious digital marketers.",
+  "faqs": [
+    {
+      "question": "How much does Semrush cost?",
+      "answer": "Semrush Pro starts at $139.95/month, Guru at $249.95/month, and Business at $499.95/month. Annual billing saves 17%. The Pro plan is sufficient for most e-commerce stores, while Guru adds content marketing tools and historical data."
+    },
+    {
+      "question": "Is Semrush worth it for e-commerce SEO?",
+      "answer": "Yes, if organic traffic is important to your business. Semrush helps you find profitable keywords, analyze competitor strategies, and fix technical issues. The ROI from ranking for high-intent product keywords typically far exceeds the subscription cost."
+    },
+    {
+      "question": "How does Semrush compare to Ahrefs?",
+      "answer": "Both are excellent SEO tools. Semrush offers more marketing features beyond SEO (social media, PPC, content marketing), while Ahrefs is often preferred for backlink analysis. For e-commerce sellers who need an all-in-one marketing platform, Semrush typically offers better value."
+    }
+  ]
 }

@@ -1,9 +1,24 @@
 {
-  "title": "PiPiADS",
-  "shortDescription": "The #1 TikTok ads spy tool with 50+ million ads database. Find winning products, analyze competitor campaigns, and discover trending creatives across 200+ countries.",
+  "title": "PipiAds",
+  "shortDescription": "The #1 TikTok ad spy tool for dropshippers and e-commerce marketers. Discover winning products and successful ad creatives from millions of TikTok campaigns.",
   "cover": "/images/tools/pipiads.png",
   "slug": "pipiads",
   "category": "Product Research",
   "link": "https://www.pipiads.com",
-  "features": ["TikTok Ad Library", "Product Research", "Competitor Analysis", "Ad Performance Metrics", "Global Coverage"]
+  "features": ["TikTok Ad Library", "Product Research", "Competitor Analysis", "Ad Performance Metrics", "Daily Updates"],
+  "longDescription": "PipiAds has revolutionized how dropshippers and e-commerce marketers find winning products in the TikTok era. With access to over 50 million real TikTok and Facebook ads, this powerful spy tool lets you see exactly what's working right now in the market. For cross-border sellers, PipiAds solves the biggest challenge in dropshipping: finding products before they become saturated. The platform updates daily, ensuring you're always ahead of trends rather than chasing them. Advanced filters let you sort by engagement, ad spend, running time, and geographic targeting, helping you identify ads that are actually converting. The product research feature connects ads directly to their source products, complete with supplier information. What makes PipiAds invaluable is its focus on TikTok—the fastest-growing e-commerce platform where organic reach still exists. By studying successful ad creatives, hooks, and formats, you can model proven strategies for your own campaigns. For anyone serious about TikTok dropshipping or TikTok Shop, PipiAds is an essential investment that pays for itself with just one winning product discovery.",
+  "faqs": [
+    {
+      "question": "How much does PipiAds cost?",
+      "answer": "PipiAds pricing starts at $49/month for the Basic plan, which is suitable for beginner marketers. The VIP plan at $155/month offers more searches and features, while enterprise plans go up to $900/month for agencies and large operations. A free trial is available to test the platform."
+    },
+    {
+      "question": "Is PipiAds better than other ad spy tools?",
+      "answer": "For TikTok-focused research, PipiAds is widely considered the best option due to its comprehensive TikTok ad database and daily updates. While tools like AdSpy focus more on Facebook, PipiAds specializes in TikTok where the biggest dropshipping opportunities exist in 2025."
+    },
+    {
+      "question": "Can PipiAds help find winning dropshipping products?",
+      "answer": "Yes, that's its primary purpose. PipiAds shows you ads that are actively running and performing well, which indicates proven demand. You can filter by metrics like engagement and ad duration to find products with validated market interest, significantly reducing the risk of launching unsuccessful products."
+    }
+  ]
 }

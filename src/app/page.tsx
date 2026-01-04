@@ -1,5 +1,4 @@
-import { getAllCourses } from '@/services/courses'
-import { posts } from '@/appData/courses'
+import { getAllTools } from '@/services/tools'
 import { Faqs } from '@/appData/faqs'
 import Faq from '@/components/faq'
 import Footer from '@/components/footer'
@@ -10,7 +9,7 @@ import ProductList from '@/components/product-list'
 import SectionHeading from '@/components/section-heading'
 
 export default async function Home() {
-  const courses = await getAllCourses()
+  const tools = await getAllTools()
 
   return (
     <>
@@ -28,7 +27,7 @@ export default async function Home() {
             title={['Featured', 'Tools']}
             subtitle="We've handpicked the most effective cross-border e-commerce tools to help you boost efficiency, reduce costs, and expand globally."
           />
-          <ProductList products={courses} />
+          <ProductList products={tools} />
         </section>
 
         <Faq items={Faqs} />

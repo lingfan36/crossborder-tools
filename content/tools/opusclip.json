@@ -1,9 +1,24 @@
 {
   "title": "OpusClip",
-  "shortDescription": "AI-powered video repurposing tool that transforms long videos into viral short clips for TikTok, Reels, and Shorts. Features auto-clipping, animated captions, and virality scoring.",
-  "cover": "/images/tools/opus.png",
+  "shortDescription": "AI-powered tool that automatically transforms long videos into viral short clips. Perfect for repurposing content for TikTok, Reels, and YouTube Shorts.",
+  "cover": "/images/tools/opusclip.png",
   "slug": "opusclip",
   "category": "AI Video & Marketing",
   "link": "https://www.opus.pro",
-  "features": ["AI Auto-Clipping", "Virality Score", "Animated Captions", "B-Roll Generator", "Social Scheduler"]
+  "features": ["AI Clip Selection", "Auto Captions", "Virality Score", "Multi-Platform Export", "B-Roll Generation"],
+  "longDescription": "OpusClip is revolutionizing content repurposing for e-commerce marketers and creators. The AI analyzes long-form videos—whether product reviews, tutorials, or livestreams—and automatically identifies the most engaging moments to create short-form clips optimized for TikTok, Instagram Reels, and YouTube Shorts. For cross-border sellers, this means one piece of content can be transformed into dozens of platform-ready clips without hours of manual editing. The AI doesn't just cut randomly; it understands context, identifies hooks, and ensures each clip tells a complete story. The virality score predicts which clips are most likely to perform well, helping you prioritize your posting strategy. Auto-generated captions with dynamic animations boost engagement, especially crucial for sound-off viewing. The platform also adds relevant B-roll footage to enhance visual interest. For sellers doing live commerce or creating long product demonstrations, OpusClip turns that content into a steady stream of short-form videos that drive traffic and sales across all social platforms.",
+  "faqs": [
+    {
+      "question": "How much does OpusClip cost?",
+      "answer": "OpusClip offers a Free plan with limited monthly processing minutes. The Starter plan at $19/month provides more clips and features, while the Pro plan at $49/month offers unlimited clips and advanced features. Annual billing provides significant discounts."
+    },
+    {
+      "question": "How does OpusClip's AI select the best clips?",
+      "answer": "OpusClip's AI analyzes multiple factors including speech patterns, emotional peaks, topic completeness, and engagement potential. It identifies natural hooks and conclusions to create clips that feel complete rather than randomly cut. The virality score helps predict which clips will perform best."
+    },
+    {
+      "question": "Can OpusClip handle videos in languages other than English?",
+      "answer": "Yes, OpusClip supports multiple languages for both video analysis and caption generation. This makes it valuable for cross-border sellers creating content for different markets, though English content typically gets the most accurate AI analysis."
+    }
+  ]
 }

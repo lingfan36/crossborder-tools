@@ -1,9 +1,24 @@
 {
-  "title": "Ali Reviews",
-  "shortDescription": "Import product reviews from AliExpress, Amazon, Temu, and more with 99.9% success rate. Display reviews with customizable widgets and boost conversions with social proof.",
+  "title": "AliReviews",
+  "shortDescription": "Import and display product reviews from AliExpress to your Shopify store. Build instant social proof for dropshipping products with real customer feedback.",
   "cover": "/images/tools/alireviews.png",
   "slug": "alireviews",
   "category": "E-commerce Platforms",
-  "link": "https://alireviews.io",
-  "features": ["Multi-Platform Import", "AI Translation", "Review Widgets", "Google Rich Snippets", "Photo Reviews"]
+  "link": "https://fireapps.io/alireviews",
+  "features": ["AliExpress Import", "Photo Reviews", "Review Widgets", "Email Collection", "Multi-Language"],
+  "longDescription": "AliReviews solves one of the biggest challenges facing dropshippers: launching products with zero reviews. For cross-border sellers sourcing from AliExpress, this app lets you import existing product reviews—including photos—directly to your Shopify store, giving new products instant credibility. The import process is simple: find your product on AliExpress, and AliReviews pulls in authentic customer reviews with one click. You can filter by rating, select only photo reviews, and translate reviews into your store's language. Beyond importing, AliReviews also collects reviews from your own customers through automated post-purchase emails. The customizable review widgets display beautifully on product pages, building the social proof that converts browsers into buyers. For stores selling products from multiple suppliers, AliReviews handles the complexity of managing reviews across your entire catalog. The platform supports multiple languages, essential for cross-border stores serving international customers. While some debate the ethics of imported reviews, they represent real feedback from real customers who purchased the same product—just from a different seller.",
+  "faqs": [
+    {
+      "question": "How much does AliReviews cost?",
+      "answer": "AliReviews offers a Free plan with basic features and limited imports. Paid plans start at $9.90/month for the Starter plan, with Professional at $19.90/month and Premium at $49.90/month offering more imports and advanced features."
+    },
+    {
+      "question": "Is it legal to import reviews from AliExpress?",
+      "answer": "This is a gray area. The reviews are from real customers who bought the same product, just from a different seller. While not explicitly illegal, it's important to be transparent with customers. Many successful dropshippers use imported reviews as a starting point while collecting their own reviews over time."
+    },
+    {
+      "question": "Can AliReviews translate reviews into English?",
+      "answer": "Yes, AliReviews includes automatic translation features that convert Chinese and other language reviews into English or your store's primary language. This is essential since many AliExpress reviews are originally in Chinese."
+    }
+  ]
 }

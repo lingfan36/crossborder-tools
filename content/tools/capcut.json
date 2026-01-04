@@ -1,9 +1,24 @@
 {
   "title": "CapCut",
-  "shortDescription": "Free all-in-one video editor by ByteDance with powerful AI tools. Features keyframe animation, slow-motion, chroma key, auto-captions, and cloud collaboration for creators.",
+  "shortDescription": "Free professional video editor from ByteDance. Perfect for TikTok content creation with AI-powered effects, templates, and seamless social media integration.",
   "cover": "/images/tools/capcut.png",
   "slug": "capcut",
   "category": "AI Video & Marketing",
   "link": "https://www.capcut.com",
-  "features": ["AI Captions", "Keyframe Animation", "Chroma Key", "Effects Library", "Cloud Storage"]
+  "features": ["AI Auto-Captions", "Trending Templates", "Background Removal", "4K Export", "Cloud Storage"],
+  "longDescription": "CapCut has become the go-to video editor for TikTok creators and e-commerce marketers worldwide. As ByteDance's official editing app, it's perfectly optimized for creating viral short-form content that drives sales. For cross-border sellers, CapCut offers an unbeatable combination of professional features and zero cost. The AI-powered auto-caption feature is essential for TikTok's sound-off viewers, automatically generating accurate subtitles in multiple languages. Trending templates let you quickly create content that matches current viral formats, while the extensive effects library adds professional polish to product videos. The background removal tool is perfect for creating clean product shots, and the green screen feature enables creative marketing content. Unlike competitors, CapCut exports in 4K without watermarks on the free plan. The seamless TikTok integration means you can publish directly from the app. For dropshippers and TikTok Shop sellers creating daily content, CapCut's speed and ease of use make it indispensable for maintaining a consistent posting schedule.",
+  "faqs": [
+    {
+      "question": "Is CapCut really free?",
+      "answer": "Yes, CapCut's core features are completely free, including 4K export without watermarks. The Pro subscription at $7.99-9.99/month adds premium templates, additional cloud storage, and exclusive effects, but the free version is sufficient for most e-commerce content creators."
+    },
+    {
+      "question": "Is CapCut better than other video editors for TikTok?",
+      "answer": "For TikTok content specifically, CapCut is unmatched. Its templates are designed for TikTok's format, effects match trending styles, and the direct publishing integration saves time. While Adobe Premiere offers more advanced features, CapCut's TikTok-first approach makes it ideal for social commerce."
+    },
+    {
+      "question": "Can I use CapCut for commercial e-commerce videos?",
+      "answer": "Yes, CapCut can be used for commercial purposes. However, be aware that some music and effects may have licensing restrictions. For product videos and ads, stick to royalty-free music or CapCut's commercial-use library to avoid copyright issues."
+    }
+  ]
 }

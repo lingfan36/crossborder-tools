@@ -1,9 +1,24 @@
 {
   "title": "Surfer SEO",
-  "shortDescription": "AI-powered content optimization platform. Analyze top-ranking pages, get real-time writing recommendations, and create SEO-friendly content that ranks higher.",
+  "shortDescription": "Data-driven content optimization tool. Create SEO-optimized content that ranks by analyzing top-performing pages and providing real-time optimization guidance.",
   "cover": "/images/tools/surferseo.png",
   "slug": "surfer-seo",
   "category": "Marketing & SEO",
   "link": "https://surferseo.com",
-  "features": ["Content Editor", "SERP Analyzer", "Keyword Research", "Content Audit", "AI Writing"]
+  "features": ["Content Editor", "SERP Analyzer", "Keyword Research", "Content Audit", "AI Writing"],
+  "longDescription": "Surfer SEO takes the guesswork out of content optimization by analyzing what's actually ranking on Google and providing data-driven recommendations. For cross-border e-commerce sellers investing in content marketing, Surfer ensures every blog post, category page, and product description is optimized to compete for search rankings. The Content Editor is the core feature—it analyzes top-ranking pages for your target keyword and provides real-time guidance on word count, keyword usage, headings, and semantic terms to include. As you write, a content score updates, showing exactly how well-optimized your content is compared to competitors. The SERP Analyzer reveals why certain pages rank, examining over 500 ranking factors. For stores with existing content, the Content Audit feature identifies pages that could rank higher with optimization. Surfer's AI writing assistant can generate SEO-optimized drafts, though human editing improves quality. The platform integrates with Google Docs, WordPress, and Jasper for seamless workflows. For e-commerce sellers serious about organic traffic, Surfer SEO provides the competitive intelligence needed to create content that actually ranks and drives sales.",
+  "faqs": [
+    {
+      "question": "How much does Surfer SEO cost?",
+      "answer": "Surfer SEO offers Essential at $89/month, Scale at $129/month (most popular), and Scale AI at $219/month with AI writing credits. Annual billing saves up to 20%. A limited free version is available for basic keyword research."
+    },
+    {
+      "question": "Is Surfer SEO worth it for e-commerce?",
+      "answer": "Yes, if you're creating content to drive organic traffic. Surfer is particularly valuable for blog content, category pages, and buying guides. The data-driven approach significantly improves your chances of ranking compared to writing without optimization guidance."
+    },
+    {
+      "question": "How does Surfer SEO compare to Clearscope?",
+      "answer": "Both are excellent content optimization tools. Surfer offers more features at a lower price point, including SERP analysis and content auditing. Clearscope has a simpler interface and is preferred by some enterprise teams. For most e-commerce sellers, Surfer provides better value."
+    }
+  ]
 }

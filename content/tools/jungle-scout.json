@@ -5,5 +5,20 @@
   "slug": "jungle-scout",
   "category": "Product Research",
   "link": "https://www.junglescout.com",
-  "features": ["Product Database", "Keyword Scout", "Competitor Tracking", "Sales Estimates", "Supplier Database"]
+  "features": ["Product Database", "Keyword Scout", "Competitor Tracking", "Sales Estimates", "Supplier Database"],
+  "longDescription": "Jungle Scout has established itself as the gold standard for Amazon product research since 2015. For cross-border sellers entering the Amazon marketplace, the platform eliminates the guesswork from product selection by providing accurate sales estimates with over 84% accuracy. The Product Database lets you filter through millions of Amazon products to find hidden gems with high demand and low competition. Keyword Scout reveals exactly what customers are searching for, helping you optimize listings for maximum visibility. The Supplier Database connects you directly with verified manufacturers, streamlining your sourcing process. Whether you're launching your first product or scaling to seven figures, Jungle Scout's data-driven approach helps you make confident decisions. The platform also offers inventory management and sales analytics, making it a complete solution for serious Amazon sellers who want to minimize risk and maximize profitability in competitive global markets.",
+  "faqs": [
+    {
+      "question": "How much does Jungle Scout cost?",
+      "answer": "Jungle Scout offers three pricing tiers: Starter at $29/month (billed annually), Growth Accelerator at $49/month, and Brand Owner + CI at higher tiers. Annual billing saves you up to 50% compared to monthly payments. All plans include core features like Product Database and Keyword Scout."
+    },
+    {
+      "question": "Is Jungle Scout better than Helium 10?",
+      "answer": "Both are excellent tools with different strengths. Jungle Scout is known for its beginner-friendly interface and highly accurate sales estimates, making it ideal for new sellers. Helium 10 offers more tools (30+) and is preferred by advanced sellers who need comprehensive listing optimization. Many successful sellers use both."
+    },
+    {
+      "question": "Does Jungle Scout support international Amazon marketplaces?",
+      "answer": "Yes, Jungle Scout supports all major Amazon marketplaces including US, UK, Germany, France, Italy, Spain, Canada, Mexico, India, and Japan. This makes it perfect for cross-border sellers looking to expand globally and research opportunities in multiple markets."
+    }
+  ]
 }
