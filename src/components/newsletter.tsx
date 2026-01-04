@@ -24,12 +24,11 @@ const Newsletter = () => {
     <div className="relative mx-auto my-12 max-w-6xl rounded-xl border bg-gray-800 p-7 md:grid md:grid-cols-2 md:rounded-l-xl md:rounded-r-none md:p-12">
       <div className="max-w-lg">
         <h2 className="mb-4 text-2xl font-bold text-gray-100 md:text-3xl">
-          Stay Updated with the Latest in Web Development
+          Stay Updated with the Latest E-commerce Tools
         </h2>
         <p className="text-md mb-6 font-medium leading-7 text-gray-300 md:text-lg">
-          Join our community of passionate developers! <br /> Receive monthly
-          updates on the latest tools, frameworks, and techniques that help you
-          level up your development stack.
+          Join our community of cross-border sellers! <br /> Receive updates
+          on the latest tools, tips, and strategies to grow your global business.
         </p>
         <form
           onSubmit={handleSubmit}
