@@ -1,22 +1,22 @@
 export const Faqs = [
   {
-    title: "What is LearnNow?",
+    title: "What is CrossBorder Tools?",
     content:
-      "LearnNow is a platform where you can find a variety of online and offline courses suitable for learners of all levels.",
+      "CrossBorder Tools is a curated directory of essential tools for cross-border e-commerce sellers. We help you discover the best software for product research, marketing, logistics, and more.",
   },
   {
-    title: "How do I use LearnNow?",
+    title: "How do I use CrossBorder Tools?",
     content:
-      "LearnNow is a user-friendly platform designed to help individuals in discovering courses that align with their interests and goals. Simply browse through the available courses and enroll in those that you find interesting.",
+      "Simply browse through our categories or use the navigation to find tools that match your needs. Click on any tool to learn more about its features and visit the official website.",
   },
   {
-    title: "How can I list my courses on LearnNow?",
+    title: "How can I submit a tool to be listed?",
     content:
-      "To list your courses on LearnNow, you can fill out a submission form on our website or contact us via email at info@email.com.",
+      "To submit a tool for listing, click the 'Submit Tool' button in the navigation bar to contact us via Telegram. We review all submissions and add quality tools to our directory.",
   },
   {
-    title: "What is LearnNow's responsibility for listed courses?",
+    title: "Are these tools free to use?",
     content:
-      "LearnNow serves as a platform for course discovery and does not take responsibility for the quality or content of the courses listed. Users are advised to conduct their own research before enrolling.",
+      "Each tool has its own pricing model. Some offer free plans or trials, while others are paid. We recommend visiting the official website of each tool to check their current pricing.",
   },
 ];
