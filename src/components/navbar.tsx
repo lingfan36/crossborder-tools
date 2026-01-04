@@ -5,6 +5,7 @@ import { useState } from 'react'
 
 const navLinks = [
   { title: 'All Tools', link: '/' },
+  { title: 'Best Of', link: '/best/best-tiktok-tools' },
   { title: 'Product Research', link: '/category/product-research' },
   { title: 'Logistics', link: '/category/logistics-payments' },
   { title: 'About', link: '/about' },
