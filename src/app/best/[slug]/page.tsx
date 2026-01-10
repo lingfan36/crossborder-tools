@@ -1,4 +1,6 @@
 import Hero from '@/components/hero'
+import Navbar from '@/components/navbar'
+import Footer from '@/components/footer'
 import { getAllCollections, getCollectionWithTools } from '@/services/collections'
 import { Metadata } from 'next'
 import Link from 'next/link'
@@ -45,10 +47,13 @@ export default async function BestOfPage({ params }: PageProps) {
 
   return (
     <>
-      <Hero 
-        title={['Best Of', 'Collection']} 
-        description={collection.title} 
-      />
+      <header>
+        <Navbar />
+        <Hero 
+          title={['Best Of', 'Collection']} 
+          description={collection.title} 
+        />
+      </header>
 
       <main className="max-w-5xl mx-auto px-4 py-10">
         {/* Intro Section */}
@@ -215,10 +220,10 @@ export default async function BestOfPage({ params }: PageProps) {
         {/* Bottom CTA */}
         <section className="text-center bg-gradient-to-r from-violet-600 to-amber-500 rounded-2xl p-10 text-white">
           <h2 className="text-2xl font-bold mb-4">
-            Ready to Dominate TikTok Dropshipping?
+            Ready to Scale Your Business?
           </h2>
           <p className="mb-6 opacity-90">
-            Start with our #1 pick and scale your business today.
+            Start with our #1 pick and grow your business today.
           </p>
           <Link
             href="/"
@@ -228,6 +233,8 @@ export default async function BestOfPage({ params }: PageProps) {
           </Link>
         </section>
       </main>
+
+      <Footer />
     </>
   )
 }
