@@ -1,0 +1,24 @@
+{
+  "title": "Mailchimp",
+  "shortDescription": "All-in-one marketing platform for email campaigns, automation, and audience management. Build customer relationships that drive repeat purchases.",
+  "cover": "/images/tools/mailchimp.png",
+  "slug": "mailchimp",
+  "category": "Email Marketing",
+  "link": "https://www.mailchimp.com",
+  "features": ["Email Campaigns", "Marketing Automation", "Landing Pages", "Audience Segmentation", "Analytics"],
+  "longDescription": "Mailchimp has evolved from a simple email tool into a comprehensive marketing platform serving millions of businesses worldwide. For e-commerce sellers, Mailchimp provides the tools to build lasting customer relationships that drive repeat purchases and lifetime value. The drag-and-drop email builder makes creating professional campaigns easy, with hundreds of templates optimized for e-commerce. Marketing automation handles welcome series, abandoned cart recovery, post-purchase follow-ups, and win-back campaigns automatically. Audience segmentation lets you target customers based on purchase history, engagement, and predicted lifetime value. The Customer Journey Builder visualizes and automates complex multi-step campaigns. E-commerce integrations with Shopify, WooCommerce, and other platforms sync customer and order data automatically. Product recommendations powered by AI suggest relevant items to each customer. Landing pages and signup forms help grow your list. Comprehensive analytics show campaign performance, revenue attribution, and audience growth. For cross-border sellers, Mailchimp supports multiple languages and time zone optimization for global audiences.",
+  "faqs": [
+    {
+      "question": "How much does Mailchimp cost?",
+      "answer": "Mailchimp offers a Free plan for up to 500 contacts with basic features. Essentials starts at $13/month for 500 contacts, Standard at $20/month adds automation and AI features, and Premium at $350/month offers advanced segmentation and support. Pricing scales with contact count."
+    },
+    {
+      "question": "Is Mailchimp good for e-commerce?",
+      "answer": "Mailchimp is solid for small to medium e-commerce businesses with its easy setup and e-commerce integrations. However, dedicated e-commerce platforms like Klaviyo offer deeper integrations, better segmentation, and more sophisticated automation. Mailchimp is more affordable for beginners."
+    },
+    {
+      "question": "Mailchimp vs Klaviyo: which is better?",
+      "answer": "Klaviyo is purpose-built for e-commerce with deeper platform integrations and more powerful segmentation. Mailchimp is more affordable and easier to learn, with broader marketing features beyond email. Choose Klaviyo for serious e-commerce focus, Mailchimp for simplicity and budget."
+    }
+  ]
+}

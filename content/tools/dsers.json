@@ -1,0 +1,24 @@
+{
+  "title": "DSers",
+  "shortDescription": "The official AliExpress dropshipping partner for Shopify. Process hundreds of orders in minutes with automated fulfillment and supplier management.",
+  "cover": "/images/tools/dsers.png",
+  "slug": "dsers",
+  "category": "Dropshipping",
+  "link": "https://www.dsers.com",
+  "features": ["Bulk Order Processing", "Supplier Optimizer", "Auto Sync Tracking", "Multiple Stores", "Variant Mapping"],
+  "longDescription": "DSers has emerged as the leading AliExpress dropshipping solution after Oberlo's discontinuation, becoming the official AliExpress dropshipping partner. The platform revolutionizes order fulfillment by allowing sellers to process hundreds of orders with just a few clicks. The Supplier Optimizer feature automatically finds better suppliers offering lower prices or faster shipping for your existing products. DSers supports multiple store management, letting you run several Shopify stores from one dashboard—perfect for testing different niches or markets. The variant mapping system handles complex products with multiple options seamlessly. Real-time inventory sync prevents overselling by updating stock levels automatically. Tracking numbers are imported and synced to your store and PayPal automatically, reducing customer service inquiries. The platform integrates with Shopify, WooCommerce, and Wix, giving you flexibility in your e-commerce platform choice. For cross-border dropshippers, DSers' bundle products feature lets you create unique offerings by combining items from different suppliers.",
+  "faqs": [
+    {
+      "question": "Is DSers free to use?",
+      "answer": "DSers offers a generous free plan that includes 3 stores, 3,000 products, and basic features. Paid plans start at $19.90/month for Advanced (20,000 products) and $49.90/month for Pro (75,000 products) with additional features like auto-sync and supplier optimizer."
+    },
+    {
+      "question": "Is DSers the replacement for Oberlo?",
+      "answer": "Yes, DSers is the official recommended replacement after Oberlo shut down in June 2022. DSers offers similar functionality with additional features like bulk ordering and supplier optimization. Oberlo users were encouraged to migrate to DSers."
+    },
+    {
+      "question": "Can DSers work with WooCommerce?",
+      "answer": "Yes, DSers supports WooCommerce in addition to Shopify and Wix. The WooCommerce integration offers the same core features including product importing, order fulfillment, and tracking sync. Install the DSers plugin from the WordPress repository."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Gorgias",
+  "shortDescription": "E-commerce focused helpdesk built for Shopify and online stores. Automate support, boost revenue, and deliver exceptional customer experiences.",
+  "cover": "/images/tools/gorgias.png",
+  "slug": "gorgias",
+  "category": "Customer Service",
+  "link": "https://www.gorgias.com",
+  "features": ["Shopify Integration", "AI Automation", "Revenue Tracking", "Multi-Channel Inbox", "Macros & Rules"],
+  "longDescription": "Gorgias is the customer support platform built specifically for e-commerce, making it the top choice for Shopify and online store owners. Unlike generic helpdesks, Gorgias deeply integrates with your store to display order information, process refunds, and update orders directly from the support ticket. The AI-powered automation handles up to 60% of common inquiries automatically—order status, shipping updates, return requests—freeing your team for complex issues. What sets Gorgias apart is its revenue focus: track how much revenue your support team generates through upsells and saved sales. The unified inbox consolidates email, chat, social media, SMS, and phone into one view. Powerful macros and rules automate repetitive tasks and route tickets to the right agents. For cross-border sellers, Gorgias supports multiple languages and integrates with translation tools. The platform connects with 100+ e-commerce apps including Klaviyo, Yotpo, and ReCharge. Real-time dashboards show response times, resolution rates, and customer satisfaction scores. Gorgias transforms customer support from a cost center into a revenue driver.",
+  "faqs": [
+    {
+      "question": "How much does Gorgias cost?",
+      "answer": "Gorgias pricing is based on ticket volume. Starter at $10/month includes 50 tickets, Basic at $60/month includes 300 tickets, Pro at $360/month includes 2,000 tickets, and Advanced at $900/month includes 5,000 tickets. Additional tickets are charged at overage rates."
+    },
+    {
+      "question": "Is Gorgias better than Zendesk for e-commerce?",
+      "answer": "For pure e-commerce, yes. Gorgias offers deeper Shopify integration, e-commerce specific automation, and revenue tracking that Zendesk lacks. However, Zendesk is more versatile for businesses with complex support needs beyond e-commerce. Gorgias is purpose-built for online stores."
+    },
+    {
+      "question": "Does Gorgias work with WooCommerce?",
+      "answer": "Yes, Gorgias supports WooCommerce with native integration. You can view customer orders, process refunds, and access purchase history directly from tickets. The integration isn't as deep as Shopify but covers essential e-commerce support workflows."
+    }
+  ]
+}

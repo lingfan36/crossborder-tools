@@ -1,0 +1,24 @@
+{
+  "title": "Google Analytics",
+  "shortDescription": "Free web analytics platform from Google. Track visitors, understand behavior, and optimize your e-commerce store with data-driven insights.",
+  "cover": "/images/tools/google-analytics.png",
+  "slug": "google-analytics",
+  "category": "Analytics",
+  "link": "https://analytics.google.com",
+  "features": ["Traffic Analysis", "E-commerce Tracking", "Conversion Funnels", "Audience Insights", "Custom Reports"],
+  "longDescription": "Google Analytics 4 (GA4) is the essential analytics platform for any e-commerce business, providing deep insights into how visitors interact with your store. For cross-border sellers, GA4 reveals which countries drive the most traffic and conversions, helping you prioritize markets. The enhanced e-commerce tracking follows the entire customer journey from first visit to purchase, showing where customers drop off. Conversion funnels visualize your checkout process, identifying friction points that cost you sales. Audience insights reveal demographics, interests, and behaviors of your visitors. The acquisition reports show which marketing channels deliver the best ROI—crucial for optimizing ad spend. GA4's machine learning surfaces insights automatically, alerting you to significant changes in traffic or conversions. Integration with Google Ads enables powerful remarketing and conversion optimization. Custom reports and dashboards let you focus on metrics that matter to your business. While GA4 has a learning curve compared to the previous Universal Analytics, its event-based model provides more flexible and accurate tracking for modern e-commerce.",
+  "faqs": [
+    {
+      "question": "Is Google Analytics free?",
+      "answer": "Yes, Google Analytics is completely free for most businesses. Google Analytics 360, the enterprise version, costs approximately $150,000/year and is only necessary for very large sites with complex needs. The free version handles millions of hits and provides comprehensive features."
+    },
+    {
+      "question": "How do I set up e-commerce tracking?",
+      "answer": "For Shopify, enable Google Analytics in your store settings and turn on Enhanced E-commerce. For WooCommerce, use a plugin like MonsterInsights or Google Analytics for WooCommerce. Custom sites require implementing the GA4 e-commerce events via Google Tag Manager or direct code."
+    },
+    {
+      "question": "What's the difference between GA4 and Universal Analytics?",
+      "answer": "GA4 uses event-based tracking instead of session-based, provides better cross-device tracking, includes machine learning insights, and is designed for a privacy-first future. Universal Analytics was sunset in July 2023, so all new implementations should use GA4."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Notion",
+  "shortDescription": "All-in-one workspace for notes, docs, wikis, and project management. Organize your e-commerce business operations in one flexible platform.",
+  "cover": "/images/tools/notion.png",
+  "slug": "notion",
+  "category": "Productivity",
+  "link": "https://www.notion.so",
+  "features": ["Flexible Databases", "Team Collaboration", "Templates", "API Integrations", "AI Assistant"],
+  "longDescription": "Notion has become the operating system for modern e-commerce businesses, providing a flexible workspace that adapts to any workflow. For cross-border sellers juggling multiple suppliers, products, and marketplaces, Notion brings order to chaos. Create product databases that track inventory, costs, suppliers, and performance metrics. Build SOPs (Standard Operating Procedures) that document every process from order fulfillment to customer service responses. The team collaboration features keep virtual teams aligned across time zones with shared workspaces, comments, and real-time editing. Notion's template gallery offers pre-built systems for inventory management, content calendars, and project tracking. The powerful database views—table, board, calendar, gallery—let you visualize data however works best. Notion AI assists with writing, summarizing, and brainstorming, boosting productivity. API integrations connect Notion to your other tools, creating automated workflows. For solo entrepreneurs, Notion serves as a second brain capturing ideas, research, and plans. For teams, it becomes the central hub where knowledge lives and work gets done.",
+  "faqs": [
+    {
+      "question": "Is Notion free?",
+      "answer": "Notion offers a generous free plan for individuals with unlimited pages and blocks. The Plus plan at $10/user/month adds unlimited file uploads and 30-day version history. Business at $18/user/month includes advanced permissions and SAML SSO. Teams under 10 people often work well on the free plan."
+    },
+    {
+      "question": "How do e-commerce sellers use Notion?",
+      "answer": "Common uses include product research databases, supplier contact management, inventory tracking, content calendars for social media, SOP documentation, meeting notes, and project management for product launches. Many sellers build custom dashboards combining multiple databases."
+    },
+    {
+      "question": "Is Notion better than Google Docs?",
+      "answer": "They serve different purposes. Google Docs excels at traditional document collaboration. Notion shines for structured information, databases, and wikis. Many businesses use both: Notion for internal knowledge bases and project management, Google Docs for external document sharing and real-time collaboration."
+    }
+  ]
+}

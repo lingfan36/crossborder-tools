@@ -1,0 +1,24 @@
+{
+  "title": "Buffer",
+  "shortDescription": "Simple social media management for scheduling posts, analyzing performance, and engaging with your audience across all major platforms.",
+  "cover": "/images/tools/buffer.png",
+  "slug": "buffer",
+  "category": "Social Media",
+  "link": "https://www.buffer.com",
+  "features": ["Post Scheduling", "Multi-Platform Publishing", "Analytics", "Team Collaboration", "AI Assistant"],
+  "longDescription": "Buffer simplifies social media management for e-commerce brands that need to maintain consistent presence across multiple platforms without spending all day on social media. The intuitive scheduling interface lets you plan and queue content for Instagram, Facebook, Twitter, LinkedIn, Pinterest, and TikTok from one dashboard. The AI Assistant helps generate post ideas and captions, overcoming creative blocks. Analytics show which content resonates with your audience, optimal posting times, and follower growth trends. For e-commerce sellers, Buffer's link-in-bio tool (Start Page) creates a customizable landing page for Instagram traffic. The browser extension makes sharing content from anywhere effortless. Team features allow collaboration with approval workflows for larger operations. Buffer's clean, focused interface avoids the complexity of enterprise tools, making it perfect for small teams and solo entrepreneurs. The mobile app lets you manage social media on the go. While Buffer lacks some advanced features of competitors, its simplicity and reliability make it a favorite for businesses that want effective social media management without the learning curve.",
+  "faqs": [
+    {
+      "question": "How much does Buffer cost?",
+      "answer": "Buffer offers a Free plan for 3 channels with basic features. Essentials at $6/month per channel adds analytics and engagement tools. Team at $12/month per channel includes collaboration features. Agency at $120/month covers 10 channels with client management. Annual billing saves 20%."
+    },
+    {
+      "question": "Is Buffer good for e-commerce?",
+      "answer": "Buffer is excellent for maintaining social media presence and scheduling product posts. However, it lacks e-commerce specific features like shoppable posts or product tagging. For social commerce, you may need platform-native tools alongside Buffer for scheduling."
+    },
+    {
+      "question": "Buffer vs Hootsuite: which should I choose?",
+      "answer": "Buffer is simpler, more affordable, and easier to learn—ideal for small businesses. Hootsuite offers more features, better team collaboration, and enterprise capabilities but at higher prices and complexity. Choose Buffer for simplicity, Hootsuite for advanced needs."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Zendesk",
+  "shortDescription": "Complete customer service platform with ticketing, live chat, and AI-powered support. Scale your customer experience across all channels.",
+  "cover": "/images/tools/zendesk.png",
+  "slug": "zendesk",
+  "category": "Customer Service",
+  "link": "https://www.zendesk.com",
+  "features": ["Omnichannel Support", "AI Chatbots", "Ticket Management", "Knowledge Base", "Analytics Dashboard"],
+  "longDescription": "Zendesk is the enterprise-grade customer service platform that helps e-commerce businesses deliver exceptional support at scale. For cross-border sellers managing customers across multiple time zones and languages, Zendesk centralizes all customer communications into one powerful dashboard. The omnichannel approach unifies email, chat, phone, social media, and messaging apps so customers can reach you however they prefer. AI-powered chatbots handle common questions 24/7, reducing ticket volume while maintaining customer satisfaction. The ticketing system ensures no customer inquiry falls through the cracks, with automatic routing, prioritization, and SLA tracking. Build a self-service knowledge base that answers common questions before customers need to contact support—reducing costs while improving experience. Zendesk's analytics reveal support trends, agent performance, and customer satisfaction metrics to continuously improve your operation. For growing e-commerce businesses, Zendesk scales from small teams to enterprise operations without switching platforms. Integrations with Shopify, WooCommerce, and other e-commerce platforms pull in order data automatically, giving agents full context for every interaction. Multi-language support makes it ideal for international sellers serving diverse markets.",
+  "faqs": [
+    {
+      "question": "How much does Zendesk cost?",
+      "answer": "Zendesk Suite plans start at $55/agent/month for Suite Team, $89/agent/month for Suite Growth, and $115/agent/month for Suite Professional. Basic Support plans start at $19/agent/month. Annual billing offers discounts. Free trials are available for all plans."
+    },
+    {
+      "question": "Is Zendesk good for small e-commerce businesses?",
+      "answer": "Zendesk can be overkill for very small businesses due to its pricing and complexity. Alternatives like Freshdesk, Help Scout, or Gorgias (built specifically for e-commerce) may be better fits for smaller operations. Zendesk shines when you need enterprise features and scalability."
+    },
+    {
+      "question": "Does Zendesk integrate with Shopify?",
+      "answer": "Yes, Zendesk offers a robust Shopify integration that displays customer order history, allows refunds and cancellations directly from tickets, and syncs customer data. The integration helps agents resolve issues faster with full context about the customer's purchases."
+    }
+  ]
+}

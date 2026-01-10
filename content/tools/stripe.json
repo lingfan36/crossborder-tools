@@ -1,0 +1,24 @@
+{
+  "title": "Stripe",
+  "shortDescription": "The payment infrastructure for the internet. Accept payments, manage subscriptions, and handle global transactions with developer-friendly APIs.",
+  "cover": "/images/tools/stripe.png",
+  "slug": "stripe",
+  "category": "Payment Processing",
+  "link": "https://www.stripe.com",
+  "features": ["Global Payments", "Subscription Billing", "Fraud Prevention", "Multi-Currency", "Developer APIs"],
+  "longDescription": "Stripe powers payments for millions of businesses worldwide, from startups to Fortune 500 companies. For cross-border e-commerce sellers, Stripe offers unmatched flexibility in accepting payments from customers globally. The platform supports 135+ currencies and dozens of payment methods including credit cards, digital wallets (Apple Pay, Google Pay), and local payment methods like Alipay, WeChat Pay, and SEPA. Stripe's intelligent fraud prevention (Radar) uses machine learning trained on billions of transactions to block fraudulent payments while minimizing false declines. The subscription billing system handles recurring payments, trials, and complex pricing models automatically. For sellers building custom storefronts, Stripe's developer-friendly APIs and extensive documentation make integration straightforward. Stripe Connect enables marketplace and platform businesses to facilitate payments between multiple parties. The dashboard provides real-time analytics, payout tracking, and financial reporting. Stripe Atlas even helps entrepreneurs incorporate US companies and open bank accounts, making it easier for international sellers to access the US market. With competitive processing fees and transparent pricing, Stripe is the payment backbone for modern e-commerce.",
+  "faqs": [
+    {
+      "question": "What are Stripe's fees?",
+      "answer": "Stripe charges 2.9% + $0.30 per successful card transaction in the US. International cards add 1.5%, and currency conversion adds 1%. Volume discounts are available for businesses processing over $80,000/month. There are no setup fees, monthly fees, or hidden charges."
+    },
+    {
+      "question": "Can international sellers use Stripe?",
+      "answer": "Stripe is available in 47+ countries. Sellers outside supported countries can use Stripe Atlas to incorporate a US company and access Stripe. Some sellers also use payment facilitators or Stripe partners to access Stripe's infrastructure indirectly."
+    },
+    {
+      "question": "How does Stripe compare to PayPal?",
+      "answer": "Stripe offers better developer tools, more customization, and often lower fees for card payments. PayPal has broader consumer recognition and its own user base. Many e-commerce businesses use both—Stripe for primary processing and PayPal as an alternative payment option for customers who prefer it."
+    }
+  ]
+}

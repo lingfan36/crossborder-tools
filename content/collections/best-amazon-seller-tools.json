@@ -1,0 +1,56 @@
+{
+  "title": "Best Amazon Seller Tools in 2025",
+  "slug": "best-amazon-seller-tools",
+  "seoDescription": "Discover the essential tools every Amazon FBA seller needs. From product research to listing optimization, these tools will help you succeed on Amazon.",
+  "heroImage": "/images/tools/helium10.png",
+  "updatedAt": "2025-01-10",
+  "tools": [
+    {
+      "toolSlug": "helium-10",
+      "rank": 1,
+      "whyWePick": "The most comprehensive Amazon toolkit with 30+ tools. Black Box and Cerebro are industry standards for product and keyword research.",
+      "bestFor": "All-in-one solution"
+    },
+    {
+      "toolSlug": "jungle-scout",
+      "rank": 2,
+      "whyWePick": "Pioneer in Amazon product research. Excellent accuracy and the Opportunity Finder makes discovering niches effortless.",
+      "bestFor": "Product research"
+    },
+    {
+      "toolSlug": "sellersprite",
+      "rank": 3,
+      "whyWePick": "Best value for money with powerful features. Chinese interface makes it perfect for sellers from China.",
+      "bestFor": "Budget-friendly option"
+    },
+    {
+      "toolSlug": "semrush",
+      "rank": 4,
+      "whyWePick": "Drive external traffic to your Amazon listings. Dominate Google rankings to boost your Amazon organic rank.",
+      "bestFor": "External traffic"
+    },
+    {
+      "toolSlug": "jasper",
+      "rank": 5,
+      "whyWePick": "AI-powered copywriting that understands Amazon's algorithm. Generate optimized titles, bullets, and descriptions in minutes.",
+      "bestFor": "Listing copywriting"
+    },
+    {
+      "toolSlug": "klaviyo",
+      "rank": 6,
+      "whyWePick": "Build your off-Amazon customer base with powerful email automation. Essential for brand building.",
+      "bestFor": "Email marketing"
+    }
+  ],
+  "comparisonTable": {
+    "headers": ["Tool", "Best For", "Starting Price", "Free Trial"],
+    "rows": [
+      ["Helium 10", "All-in-One", "$29/mo", "Yes"],
+      ["Jungle Scout", "Product Research", "$49/mo", "7-day guarantee"],
+      ["SellerSprite", "Budget Option", "$19/mo", "Yes"],
+      ["Semrush", "SEO & Traffic", "$139/mo", "Yes"],
+      ["Jasper", "AI Copywriting", "$49/mo", "Yes"],
+      ["Klaviyo", "Email Marketing", "Free tier", "N/A"]
+    ]
+  }
+}

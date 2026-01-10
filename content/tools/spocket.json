@@ -1,0 +1,24 @@
+{
+  "title": "Spocket",
+  "shortDescription": "Premium dropshipping marketplace featuring US and EU suppliers. Faster shipping times and higher quality products for serious dropshippers.",
+  "cover": "/images/tools/spocket.png",
+  "slug": "spocket",
+  "category": "Dropshipping",
+  "link": "https://www.spocket.co",
+  "features": ["US/EU Suppliers", "Fast Shipping", "Branded Invoicing", "Real-Time Inventory", "Sample Orders"],
+  "longDescription": "Spocket differentiates itself in the dropshipping space by focusing on US and European suppliers, solving the biggest pain point of traditional dropshipping: slow shipping from China. With Spocket, most orders reach US customers in 2-5 days instead of 2-4 weeks, dramatically improving customer satisfaction and reducing refund requests. The platform vets all suppliers for quality and reliability, featuring products with 30-60% discounts off retail prices. Branded invoicing lets you include your logo and custom messaging on packing slips, building brand recognition without revealing your supplier. Real-time inventory sync prevents overselling, and the one-click order fulfillment streamlines operations. Spocket integrates seamlessly with Shopify, WooCommerce, Wix, BigCommerce, and more. The sample order feature lets you test product quality before selling—essential for maintaining your store's reputation. For cross-border sellers targeting Western markets, Spocket's supplier network provides a competitive advantage over China-based dropshipping. The product catalog spans fashion, home goods, electronics, beauty, and more.",
+  "faqs": [
+    {
+      "question": "How much does Spocket cost?",
+      "answer": "Spocket offers a Free plan with limited features. Starter at $39.99/month includes 25 unique products, Pro at $59.99/month offers 250 products and branded invoicing, Empire at $99.99/month provides 10,000 products, and Unicorn at $299.99/month offers unlimited products with premium support."
+    },
+    {
+      "question": "Is Spocket better than AliExpress for dropshipping?",
+      "answer": "Spocket offers faster shipping (2-5 days vs 2-4 weeks) and higher quality suppliers, but at higher product costs. AliExpress has a larger product selection and lower prices. Spocket is better for building a premium brand; AliExpress works for price-competitive niches where customers accept longer shipping."
+    },
+    {
+      "question": "Can you make money with Spocket?",
+      "answer": "Yes, many sellers profit with Spocket despite higher product costs by positioning as premium brands and charging accordingly. The faster shipping reduces refunds and chargebacks, improving net margins. Success depends on niche selection, marketing, and pricing strategy."
+    }
+  ]
+}

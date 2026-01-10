@@ -1,0 +1,24 @@
+{
+  "title": "SellerSprite",
+  "shortDescription": "Professional Amazon product research and keyword tool designed for Chinese sellers, with powerful data analysis for global Amazon marketplaces.",
+  "cover": "/images/tools/sellersprite.png",
+  "slug": "sellersprite",
+  "category": "Product Research",
+  "link": "https://www.sellersprite.com",
+  "features": ["Product Research", "Keyword Mining", "Market Analysis", "Competitor Tracking", "Review Analysis"],
+  "longDescription": "SellerSprite (卖家精灵) is a comprehensive Amazon seller toolkit that has become the go-to choice for Chinese cross-border sellers. The platform offers deep data analysis across all major Amazon marketplaces including US, UK, Germany, Japan, and more. Its product research module helps sellers identify profitable niches by analyzing sales trends, competition levels, and profit margins. The keyword mining tool uncovers high-converting search terms that competitors are ranking for, while the market analysis feature provides insights into category trends and seasonal patterns. SellerSprite's Chrome extension delivers instant product metrics while browsing Amazon, making research seamless. The platform also offers review analysis to understand customer pain points and listing optimization opportunities. With a user interface available in Chinese, it's particularly accessible for sellers from China looking to expand globally. The competitive pricing compared to Western alternatives makes it an excellent value for serious Amazon sellers.",
+  "faqs": [
+    {
+      "question": "How much does SellerSprite cost?",
+      "answer": "SellerSprite offers flexible pricing starting from $19/month for the Basic plan. The Standard plan at $39/month includes more searches and features, while the Professional plan at $79/month offers unlimited access. Annual subscriptions provide significant discounts up to 50% off."
+    },
+    {
+      "question": "Is SellerSprite better than Helium 10?",
+      "answer": "Both tools have strengths. SellerSprite offers better value pricing and a Chinese interface, making it ideal for Chinese sellers. Helium 10 has more comprehensive features and better training resources. Many serious sellers use both tools for different purposes."
+    },
+    {
+      "question": "Does SellerSprite support all Amazon marketplaces?",
+      "answer": "Yes, SellerSprite covers all major Amazon marketplaces including US, Canada, Mexico, UK, Germany, France, Italy, Spain, Japan, Australia, and India. Data accuracy and depth may vary by marketplace."
+    }
+  ]
+}
