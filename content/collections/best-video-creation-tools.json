@@ -1,0 +1,95 @@
+{
+    "title": "Best AI Video Creation Tools for E-commerce in 2026",
+    "slug": "best-video-creation-tools",
+    "seoDescription": "Create scroll-stopping product videos with these AI-powered tools. Perfect for TikTok Shop, Amazon listings, and social media marketing.",
+    "heroImage": "/images/tools/heygen.png",
+    "updatedAt": "2026-01-18",
+    "relatedCollections": [
+        "best-tiktok-tools",
+        "best-dropshipping-tools"
+    ],
+    "tools": [
+        {
+            "toolSlug": "heygen",
+            "rank": 1,
+            "whyWePick": "Create AI avatar videos in 175+ languages. Perfect for product demos and UGC-style content without hiring creators or filming.",
+            "bestFor": "AI avatar videos"
+        },
+        {
+            "toolSlug": "capcut",
+            "rank": 2,
+            "whyWePick": "Free, powerful editing with TikTok-optimized templates. Auto-captions and trending effects make content creation effortless.",
+            "bestFor": "Quick video editing"
+        },
+        {
+            "toolSlug": "opusclip",
+            "rank": 3,
+            "whyWePick": "Turn long videos into viral short clips automatically. AI identifies the best moments and adds engaging captions.",
+            "bestFor": "Content repurposing"
+        },
+        {
+            "toolSlug": "invideo",
+            "rank": 4,
+            "whyWePick": "5000+ templates for every e-commerce use case. Create ads, product videos, and social content in minutes.",
+            "bestFor": "Template-based creation"
+        },
+        {
+            "toolSlug": "submagic",
+            "rank": 5,
+            "whyWePick": "Eye-catching animated captions that boost watch time. Essential for sound-off social media viewers.",
+            "bestFor": "Caption generation"
+        },
+        {
+            "toolSlug": "canva",
+            "rank": 6,
+            "whyWePick": "All-in-one design platform with video capabilities. Great for creating cohesive brand content across formats.",
+            "bestFor": "Design + video combo"
+        }
+    ],
+    "comparisonTable": {
+        "headers": [
+            "Tool",
+            "Best For",
+            "Starting Price",
+            "Free Plan"
+        ],
+        "rows": [
+            [
+                "HeyGen",
+                "AI Avatars",
+                "$29/mo",
+                "Yes"
+            ],
+            [
+                "CapCut",
+                "Video Editing",
+                "Free",
+                "Yes"
+            ],
+            [
+                "OpusClip",
+                "Auto Clips",
+                "$19/mo",
+                "Yes"
+            ],
+            [
+                "InVideo",
+                "Templates",
+                "$25/mo",
+                "Yes"
+            ],
+            [
+                "Submagic",
+                "Captions",
+                "$19/mo",
+                "Yes"
+            ],
+            [
+                "Canva",
+                "Design + Video",
+                "$12.99/mo",
+                "Yes"
+            ]
+        ]
+    }
+}

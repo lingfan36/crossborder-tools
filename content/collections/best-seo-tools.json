@@ -1,0 +1,83 @@
+{
+    "title": "Best SEO Tools for E-commerce Websites in 2026",
+    "slug": "best-seo-tools",
+    "seoDescription": "Drive organic traffic to your e-commerce store with these powerful SEO tools. From keyword research to content optimization, dominate search rankings.",
+    "heroImage": "/images/tools/semrush.png",
+    "updatedAt": "2026-01-18",
+    "relatedCollections": [
+        "best-amazon-seller-tools",
+        "best-dropshipping-tools"
+    ],
+    "tools": [
+        {
+            "toolSlug": "semrush",
+            "rank": 1,
+            "whyWePick": "The most comprehensive SEO suite for e-commerce. Keyword research, competitor analysis, site audits, and content optimization in one platform.",
+            "bestFor": "All-in-one SEO"
+        },
+        {
+            "toolSlug": "ahrefs",
+            "rank": 2,
+            "whyWePick": "Industry-leading backlink analysis and keyword research. Essential for competitive analysis and link building strategies.",
+            "bestFor": "Backlink analysis"
+        },
+        {
+            "toolSlug": "surfer-seo",
+            "rank": 3,
+            "whyWePick": "AI-powered content optimization that tells you exactly what to write. Perfect for creating SEO-optimized product descriptions and blog posts.",
+            "bestFor": "Content optimization"
+        },
+        {
+            "toolSlug": "google-analytics",
+            "rank": 4,
+            "whyWePick": "Free, powerful traffic analytics from Google. Essential for understanding user behavior and measuring marketing ROI.",
+            "bestFor": "Traffic analytics"
+        },
+        {
+            "toolSlug": "jasper",
+            "rank": 5,
+            "whyWePick": "AI copywriting that understands SEO. Generate optimized product descriptions, meta tags, and blog content at scale.",
+            "bestFor": "AI content writing"
+        }
+    ],
+    "comparisonTable": {
+        "headers": [
+            "Tool",
+            "Best For",
+            "Starting Price",
+            "Free Plan"
+        ],
+        "rows": [
+            [
+                "Semrush",
+                "All-in-One",
+                "$139/mo",
+                "Limited"
+            ],
+            [
+                "Ahrefs",
+                "Backlinks",
+                "$99/mo",
+                "Webmaster Tools"
+            ],
+            [
+                "Surfer SEO",
+                "Content",
+                "$89/mo",
+                "No"
+            ],
+            [
+                "Google Analytics",
+                "Analytics",
+                "Free",
+                "Yes"
+            ],
+            [
+                "Jasper",
+                "AI Writing",
+                "$49/mo",
+                "Yes"
+            ]
+        ]
+    }
+}

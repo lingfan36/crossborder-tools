@@ -1,0 +1,59 @@
+{
+    "title": "Best Payment Solutions for Cross-Border E-commerce in 2026",
+    "slug": "best-payment-solutions",
+    "seoDescription": "Accept payments globally and manage international transfers with these trusted payment solutions. Lower fees, faster payouts, multi-currency support.",
+    "heroImage": "/images/tools/stripe.png",
+    "updatedAt": "2026-01-18",
+    "relatedCollections": [
+        "best-dropshipping-tools",
+        "best-amazon-seller-tools"
+    ],
+    "tools": [
+        {
+            "toolSlug": "stripe",
+            "rank": 1,
+            "whyWePick": "The gold standard for online payments. Accept 135+ currencies with powerful APIs, fraud protection, and seamless checkout experiences.",
+            "bestFor": "Online payments"
+        },
+        {
+            "toolSlug": "payoneer",
+            "rank": 2,
+            "whyWePick": "Built for cross-border sellers. Receive marketplace payouts, manage multiple currencies, and access working capital.",
+            "bestFor": "Marketplace payouts"
+        },
+        {
+            "toolSlug": "wise",
+            "rank": 3,
+            "whyWePick": "The cheapest way to send and receive international transfers. Real exchange rates with minimal fees.",
+            "bestFor": "Currency exchange"
+        }
+    ],
+    "comparisonTable": {
+        "headers": [
+            "Tool",
+            "Best For",
+            "Transaction Fee",
+            "Currencies"
+        ],
+        "rows": [
+            [
+                "Stripe",
+                "Online Payments",
+                "2.9% + 30¢",
+                "135+"
+            ],
+            [
+                "Payoneer",
+                "Marketplace",
+                "Up to 2%",
+                "70+"
+            ],
+            [
+                "Wise",
+                "Transfers",
+                "0.5-1.5%",
+                "50+"
+            ]
+        ]
+    }
+}
