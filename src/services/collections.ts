@@ -15,6 +15,7 @@ export interface Collection {
   seoDescription: string
   heroImage: string
   updatedAt: string
+  relatedCollections?: string[]
   tools: CollectionTool[]
   comparisonTable: {
     headers: string[]
@@ -28,7 +29,7 @@ export async function getAllCollections(): Promise<Collection[]> {
   if (!fs.existsSync(collectionsDirectory)) {
     return []
   }
-  
+
   const files = fs.readdirSync(collectionsDirectory)
   const collections: Collection[] = []
 
@@ -45,7 +46,7 @@ export async function getAllCollections(): Promise<Collection[]> {
 
 export async function getOneCollection(slug: string): Promise<Collection | null> {
   const filePath = path.join(collectionsDirectory, `${slug}.json`)
-  
+
   if (!fs.existsSync(filePath)) {
     return null
   }
@@ -56,7 +57,7 @@ export async function getOneCollection(slug: string): Promise<Collection | null>
 
 export async function getCollectionWithTools(slug: string) {
   const collection = await getOneCollection(slug)
-  
+
   if (!collection) {
     return null
   }
@@ -76,3 +77,12 @@ export async function getCollectionWithTools(slug: string) {
     tools: toolsWithDetails,
   }
 }
+
+export async function getCollectionsForTool(toolSlug: string): Promise<Collection[]> {
+  const allCollections = await getAllCollections()
+
+  return allCollections.filter(collection =>
+    collection.tools.some(tool => tool.toolSlug === toolSlug)
+  )
+}
+

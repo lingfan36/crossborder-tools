@@ -3,7 +3,11 @@
   "slug": "best-dropshipping-tools",
   "seoDescription": "Start and scale your dropshipping business with these essential tools. From supplier sourcing to order fulfillment, we cover everything you need.",
   "heroImage": "/images/tools/shopify.png",
-  "updatedAt": "2025-01-10",
+  "updatedAt": "2026-01-18",
+  "relatedCollections": [
+    "best-amazon-seller-tools",
+    "best-tiktok-tools"
+  ],
   "tools": [
     {
       "toolSlug": "shopify",
@@ -43,14 +47,49 @@
     }
   ],
   "comparisonTable": {
-    "headers": ["Tool", "Best For", "Starting Price", "Free Plan"],
+    "headers": [
+      "Tool",
+      "Best For",
+      "Starting Price",
+      "Free Plan"
+    ],
     "rows": [
-      ["Shopify", "Store Platform", "$29/mo", "3-day trial"],
-      ["DSers", "AliExpress Orders", "Free", "Yes"],
-      ["Spocket", "US/EU Suppliers", "$39.99/mo", "Yes"],
-      ["CJ Dropshipping", "Full Service", "Free", "Yes"],
-      ["Minea", "Ad Spying", "$49/mo", "Yes"],
-      ["Printful", "POD", "Free", "Yes"]
+      [
+        "Shopify",
+        "Store Platform",
+        "$29/mo",
+        "3-day trial"
+      ],
+      [
+        "DSers",
+        "AliExpress Orders",
+        "Free",
+        "Yes"
+      ],
+      [
+        "Spocket",
+        "US/EU Suppliers",
+        "$39.99/mo",
+        "Yes"
+      ],
+      [
+        "CJ Dropshipping",
+        "Full Service",
+        "Free",
+        "Yes"
+      ],
+      [
+        "Minea",
+        "Ad Spying",
+        "$49/mo",
+        "Yes"
+      ],
+      [
+        "Printful",
+        "POD",
+        "Free",
+        "Yes"
+      ]
     ]
   }
 }

@@ -3,7 +3,11 @@
   "slug": "best-amazon-seller-tools",
   "seoDescription": "Discover the essential tools every Amazon FBA seller needs. From product research to listing optimization, these tools will help you succeed on Amazon.",
   "heroImage": "/images/tools/helium10.png",
-  "updatedAt": "2025-01-10",
+  "updatedAt": "2026-01-18",
+  "relatedCollections": [
+    "best-dropshipping-tools",
+    "best-tiktok-tools"
+  ],
   "tools": [
     {
       "toolSlug": "helium-10",
@@ -43,14 +47,49 @@
     }
   ],
   "comparisonTable": {
-    "headers": ["Tool", "Best For", "Starting Price", "Free Trial"],
+    "headers": [
+      "Tool",
+      "Best For",
+      "Starting Price",
+      "Free Trial"
+    ],
     "rows": [
-      ["Helium 10", "All-in-One", "$29/mo", "Yes"],
-      ["Jungle Scout", "Product Research", "$49/mo", "7-day guarantee"],
-      ["SellerSprite", "Budget Option", "$19/mo", "Yes"],
-      ["Semrush", "SEO & Traffic", "$139/mo", "Yes"],
-      ["Jasper", "AI Copywriting", "$49/mo", "Yes"],
-      ["Klaviyo", "Email Marketing", "Free tier", "N/A"]
+      [
+        "Helium 10",
+        "All-in-One",
+        "$29/mo",
+        "Yes"
+      ],
+      [
+        "Jungle Scout",
+        "Product Research",
+        "$49/mo",
+        "7-day guarantee"
+      ],
+      [
+        "SellerSprite",
+        "Budget Option",
+        "$19/mo",
+        "Yes"
+      ],
+      [
+        "Semrush",
+        "SEO & Traffic",
+        "$139/mo",
+        "Yes"
+      ],
+      [
+        "Jasper",
+        "AI Copywriting",
+        "$49/mo",
+        "Yes"
+      ],
+      [
+        "Klaviyo",
+        "Email Marketing",
+        "Free tier",
+        "N/A"
+      ]
     ]
   }
 }

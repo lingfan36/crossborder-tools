@@ -4,7 +4,7 @@ import Footer from '@/components/footer'
 import { getAllCollections, getCollectionWithTools } from '@/services/collections'
 import { Metadata } from 'next'
 import Link from 'next/link'
-import { ExternalLink, Trophy, Star, CheckCircle } from 'lucide-react'
+import { ExternalLink, Trophy, Star, CheckCircle, Compass } from 'lucide-react'
 
 interface StaticParams {
   slug: string
@@ -26,7 +26,7 @@ interface PageProps {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params
   const collection = await getCollectionWithTools(slug)
-  
+
   if (!collection) {
     return { title: 'Collection Not Found' }
   }
@@ -49,9 +49,9 @@ export default async function BestOfPage({ params }: PageProps) {
     <>
       <header>
         <Navbar />
-        <Hero 
-          title={['Best Of', 'Collection']} 
-          description={collection.title} 
+        <Hero
+          title={['Best Of', 'Collection']}
+          description={collection.title}
         />
       </header>
 
@@ -72,21 +72,19 @@ export default async function BestOfPage({ params }: PageProps) {
             <Trophy className="text-amber-500" size={28} />
             Our Top Picks
           </h2>
-          
+
           <div className="space-y-6">
             {collection.tools.map((tool) => (
-              <div 
+              <div
                 key={tool.toolSlug}
-                className={`relative bg-white rounded-2xl shadow-md border-2 overflow-hidden transition-all hover:shadow-lg ${
-                  tool.rank === 1 ? 'border-amber-400' : 'border-gray-100'
-                }`}
+                className={`relative bg-white rounded-2xl shadow-md border-2 overflow-hidden transition-all hover:shadow-lg ${tool.rank === 1 ? 'border-amber-400' : 'border-gray-100'
+                  }`}
               >
                 {/* Rank Badge */}
-                <div className={`absolute top-4 left-4 w-12 h-12 rounded-full flex items-center justify-center font-bold text-white ${
-                  tool.rank === 1 ? 'bg-amber-500' : 
-                  tool.rank === 2 ? 'bg-gray-400' : 
-                  tool.rank === 3 ? 'bg-amber-700' : 'bg-violet-500'
-                }`}>
+                <div className={`absolute top-4 left-4 w-12 h-12 rounded-full flex items-center justify-center font-bold text-white ${tool.rank === 1 ? 'bg-amber-500' :
+                  tool.rank === 2 ? 'bg-gray-400' :
+                    tool.rank === 3 ? 'bg-amber-700' : 'bg-violet-500'
+                  }`}>
                   #{tool.rank}
                 </div>
 
@@ -100,8 +98,8 @@ export default async function BestOfPage({ params }: PageProps) {
                   {/* Tool Image */}
                   <div className="md:w-48 h-40 md:h-auto flex-shrink-0">
                     {tool.details && (
-                      <img 
-                        src={tool.details.cover} 
+                      <img
+                        src={tool.details.cover}
                         alt={tool.details.title}
                         className="w-full h-full object-cover"
                       />
@@ -193,8 +191,8 @@ export default async function BestOfPage({ params }: PageProps) {
               </thead>
               <tbody>
                 {collection.comparisonTable.rows.map((row, rowIdx) => (
-                  <tr 
-                    key={rowIdx} 
+                  <tr
+                    key={rowIdx}
                     className={`border-b border-gray-100 ${rowIdx % 2 === 0 ? 'bg-gray-50' : 'bg-white'}`}
                   >
                     {row.map((cell, cellIdx) => (
@@ -216,6 +214,40 @@ export default async function BestOfPage({ params }: PageProps) {
             </table>
           </div>
         </section>
+
+        {/* Related Collections */}
+        {collection.relatedCollections && collection.relatedCollections.length > 0 && (
+          <section className="mb-16">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6 flex items-center gap-2">
+              <Compass className="text-violet-500" size={24} />
+              Related Collections
+            </h2>
+            <div className="grid md:grid-cols-2 gap-4">
+              {collection.relatedCollections.map(async (relatedSlug) => {
+                const allCollections = await getAllCollections()
+                const relatedCollection = allCollections.find(c => c.slug === relatedSlug)
+                if (!relatedCollection) return null
+                return (
+                  <Link
+                    key={relatedSlug}
+                    href={`/best/${relatedSlug}`}
+                    className="flex items-center gap-4 p-4 bg-white rounded-xl border-2 border-gray-100 hover:border-violet-300 hover:shadow-md transition group"
+                  >
+                    <div className="w-12 h-12 bg-gradient-to-br from-violet-500 to-amber-500 rounded-lg flex items-center justify-center text-white font-bold text-xl">
+                      🏆
+                    </div>
+                    <div>
+                      <h3 className="font-semibold text-gray-800 group-hover:text-violet-600 transition">
+                        {relatedCollection.title}
+                      </h3>
+                      <p className="text-sm text-gray-500">{relatedCollection.tools.length} tools reviewed</p>
+                    </div>
+                  </Link>
+                )
+              })}
+            </div>
+          </section>
+        )}
 
         {/* Bottom CTA */}
         <section className="text-center bg-gradient-to-r from-violet-600 to-amber-500 rounded-2xl p-10 text-white">

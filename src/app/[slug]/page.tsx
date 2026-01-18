@@ -1,8 +1,10 @@
 import Hero from '@/components/hero'
 import Lists from '@/components/lists'
 import { getAllTools, getOneTool } from '@/services/tools'
-import { ExternalLink, ChevronDown } from 'lucide-react'
+import { getCollectionsForTool } from '@/services/collections'
+import { ExternalLink, ChevronDown, Award } from 'lucide-react'
 import { Metadata } from 'next'
+import Link from 'next/link'
 
 interface StaticParams {
   slug: string
@@ -29,7 +31,7 @@ interface PageProps {
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const { slug } = await params
   const tool = await getOneTool(slug)
-  
+
   if (!tool) {
     return { title: 'Tool Not Found' }
   }
@@ -53,6 +55,7 @@ export default async function ToolDetailsPage(props: PageProps) {
   const params = await props.params
   const { slug } = params
   const tool = await getOneTool(slug)
+  const collections = await getCollectionsForTool(slug)
 
   if (!tool) {
     return <p className="text-center mt-10">Tool not found</p>
@@ -177,8 +180,8 @@ export default async function ToolDetailsPage(props: PageProps) {
             <h2 className="text-2xl font-bold text-gray-800 mb-6">Frequently Asked Questions</h2>
             <div className="space-y-4">
               {tool.faqs.map((faq, index) => (
-                <details 
-                  key={index} 
+                <details
+                  key={index}
                   className="group bg-gray-50 rounded-xl p-5 cursor-pointer"
                 >
                   <summary className="flex items-center justify-between font-semibold text-gray-800 list-none">
@@ -189,6 +192,27 @@ export default async function ToolDetailsPage(props: PageProps) {
                     {faq.answer}
                   </p>
                 </details>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* Featured In Collections */}
+        {collections.length > 0 && (
+          <section className="mt-10">
+            <h2 className="text-2xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+              <Award className="text-amber-500" size={24} />
+              Featured In
+            </h2>
+            <div className="flex flex-wrap gap-3">
+              {collections.map((collection) => (
+                <Link
+                  key={collection.slug}
+                  href={`/best/${collection.slug}`}
+                  className="inline-flex items-center gap-2 bg-gradient-to-r from-violet-100 to-amber-100 text-gray-800 px-4 py-2 rounded-lg font-medium hover:from-violet-200 hover:to-amber-200 transition"
+                >
+                  🏆 {collection.title}
+                </Link>
               ))}
             </div>
           </section>
